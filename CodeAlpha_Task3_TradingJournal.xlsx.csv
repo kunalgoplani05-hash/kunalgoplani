@@ -1,0 +1,1348 @@
+Time,Text
+12/19/2025 5:47,Order 2575145096 for symbol OANDA:XAUUSD has been executed at price 4329.490 for 280 units
+12/19/2025 5:47,Order 2575145391 successfully cancelled
+12/19/2025 5:44,Order 2575145096 modification confirmed
+12/19/2025 5:44,Order 2575145391 successfully placed
+12/19/2025 5:44,Modify position for symbol OANDA:XAUUSD with SL 4331.307 and TP 4329.539
+12/19/2025 5:43,Order 2575145096 successfully placed
+12/19/2025 5:43,Modify position for symbol OANDA:XAUUSD with TP 4329.539
+12/19/2025 5:40,Order 2575141275 for symbol OANDA:XAUUSD has been executed at price 4330.950 for 280 units
+12/19/2025 5:40,Order 2575141275 successfully placed
+12/19/2025 5:40,Call to place market order to sell 280 units of symbol OANDA:XAUUSD 
+12/19/2025 3:05,Order 2574957021 for symbol BLACKBULL:US30 has been executed at price 47912.00 for 28 units
+12/19/2025 3:05,Order 2574956854 successfully cancelled
+12/19/2025 3:02,Order 2574956854 modification confirmed
+12/19/2025 3:02,Order 2574957021 modification confirmed
+12/19/2025 3:02,Modify position for symbol BLACKBULL:US30 with SL 47908.60 and TP 47899.20
+12/19/2025 3:02,Order 2574956854 modification confirmed
+12/19/2025 3:02,Order 2574957021 modification confirmed
+12/19/2025 3:02,Modify position for symbol BLACKBULL:US30 with SL 47910.54 and TP 47899.20
+12/19/2025 2:57,Order 2574956854 modification confirmed
+12/19/2025 2:57,Order 2574957021 modification confirmed
+12/19/2025 2:57,Modify position for symbol BLACKBULL:US30 with SL 47913.27 and TP 47899.20
+12/19/2025 2:52,Order 2574956854 modification confirmed
+12/19/2025 2:52,Order 2574957021 modification confirmed
+12/19/2025 2:52,Modify position for symbol BLACKBULL:US30 with SL 47915.18 and TP 47899.20
+12/19/2025 2:51,Order 2574956854 modification confirmed
+12/19/2025 2:51,Order 2574957021 modification confirmed
+12/19/2025 2:51,Modify position for symbol BLACKBULL:US30 with SL 47915.18 and TP 47898.56
+12/19/2025 2:48,Order 2574956854 modification confirmed
+12/19/2025 2:48,Order 2574957021 modification confirmed
+12/19/2025 2:48,Modify position for symbol BLACKBULL:US30 with SL 47923.17 and TP 47898.56
+12/19/2025 2:48,Order 2574956854 modification confirmed
+12/19/2025 2:48,Order 2574957021 modification confirmed
+12/19/2025 2:48,Modify position for symbol BLACKBULL:US30 with SL 47919.17 and TP 47898.56
+12/19/2025 2:46,Order 2574956854 modification confirmed
+12/19/2025 2:46,Order 2574957021 modification confirmed
+12/19/2025 2:46,Modify position for symbol BLACKBULL:US30 with SL 47923.84 and TP 47898.56
+12/19/2025 2:45,Order 2574956854 modification confirmed
+12/19/2025 2:45,Order 2574957021 modification confirmed
+12/19/2025 2:45,Modify position for symbol BLACKBULL:US30 with SL 47934.25 and TP 47898.56
+12/19/2025 2:43,Order 2574956854 modification confirmed
+12/19/2025 2:43,Order 2574957021 modification confirmed
+12/19/2025 2:43,Modify position for symbol BLACKBULL:US30 with SL 47952.10 and TP 47898.56
+12/19/2025 2:41,Order 2574956854 modification confirmed
+12/19/2025 2:41,Order 2574957021 successfully placed
+12/19/2025 2:41,Modify position for symbol BLACKBULL:US30 with SL 47959.75 and TP 47898.56
+12/19/2025 2:41,Order 2574956854 successfully placed
+12/19/2025 2:41,Modify position for symbol BLACKBULL:US30 with TP 47898.56
+12/19/2025 2:41,Order 2574956188 for symbol BLACKBULL:US30 has been executed at price 47935.00 for 28 units
+12/19/2025 2:41,Order 2574956188 successfully placed
+12/19/2025 2:41,Call to place market order to sell 28 units of symbol BLACKBULL:US30 
+12/19/2025 1:29,Order 2574768755 for symbol BLACKBULL:US30 has been executed at price 47920.00 for 28 units
+12/19/2025 1:29,Order 2574778057 successfully cancelled
+12/19/2025 1:29,Order 2574778057 successfully placed
+12/19/2025 1:29,Order 2574768755 modification confirmed
+12/19/2025 1:29,Modify position for symbol BLACKBULL:US30 with SL 47917.45 and TP 47864.87
+12/19/2025 1:29,Order 2574768755 modification confirmed
+12/19/2025 1:29,Order 2574775444 successfully cancelled
+12/19/2025 1:29,Modify position for symbol BLACKBULL:US30 with SL 47917.45
+12/19/2025 1:28,Order 2574775444 successfully placed
+12/19/2025 1:28,Order 2574768755 modification confirmed
+12/19/2025 1:28,Modify position for symbol BLACKBULL:US30 with SL 47917.45 and TP 47881.60
+12/19/2025 1:27,Order 2574768755 modification confirmed
+12/19/2025 1:27,Modify position for symbol BLACKBULL:US30 with SL 47917.45
+12/19/2025 1:26,Order 2574768755 modification confirmed
+12/19/2025 1:26,Order 2574769418 successfully cancelled
+12/19/2025 1:26,Modify position for symbol BLACKBULL:US30 with SL 47952.10
+12/19/2025 1:26,Order 2574769418 successfully placed
+12/19/2025 1:26,Order 2574768755 modification confirmed
+12/19/2025 1:26,Modify position for symbol BLACKBULL:US30 with SL 47952.10 and TP 47888.77
+12/19/2025 1:26,Order 2574768755 successfully placed
+12/19/2025 1:26,Modify position for symbol BLACKBULL:US30 with SL 47952.10
+12/19/2025 1:25,Order 2574764542 successfully cancelled
+12/19/2025 1:25,Modify position for symbol BLACKBULL:US30
+12/19/2025 1:25,Order 2574764542 successfully placed
+12/19/2025 1:25,Modify position for symbol BLACKBULL:US30 with TP 47915.06
+12/19/2025 1:24,Order 2574763926 for symbol BLACKBULL:US30 has been executed at price 47954.00 for 28 units
+12/19/2025 1:24,Order 2574763926 successfully placed
+12/19/2025 1:24,Call to place market order to sell 28 units of symbol BLACKBULL:US30 
+12/19/2025 0:55,Order 2574674754 for symbol DELTAIN:BTCUSD.P has been executed at price 85545.0 for 13 units
+12/19/2025 0:55,Order 2574674754 successfully placed
+12/19/2025 0:55,Order 2574670498 successfully cancelled
+12/19/2025 0:55,Order 2574670497 successfully cancelled
+12/19/2025 0:55,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/19/2025 0:53,Order 2574670498 successfully placed
+12/19/2025 0:53,Order 2574670497 successfully placed
+12/19/2025 0:53,Modify position for symbol DELTAIN:BTCUSD.P with SL 85733.0 and TP 85297.7
+12/19/2025 0:53,Order 2574669522 for symbol DELTAIN:BTCUSD.P has been executed at price 85524.0 for 13 units
+12/19/2025 0:53,Order 2574669522 successfully placed
+12/19/2025 0:53,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/19/2025 0:46,Order 2574651365 for symbol DELTAIN:BTCUSD.P has been executed at price 85260.5 for 13 units
+12/19/2025 0:46,Order 2574651365 successfully placed
+12/19/2025 0:46,Order 2574650773 successfully cancelled
+12/19/2025 0:46,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/19/2025 0:46,Order 2574650773 successfully placed
+12/19/2025 0:46,Modify position for symbol DELTAIN:BTCUSD.P with SL 85675.5
+12/19/2025 0:46,Order 2574650165 for symbol DELTAIN:BTCUSD.P has been executed at price 85558.5 for 13 units
+12/19/2025 0:46,Order 2574650165 successfully placed
+12/19/2025 0:46,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/19/2025 0:43,Order 2574641327 for symbol DELTAIN:BTCUSD.P has been executed at price 85625.5 for 13 units
+12/19/2025 0:43,Order 2574641327 successfully placed
+12/19/2025 0:43,Order 2574604323 successfully cancelled
+12/19/2025 0:43,Order 2574604322 successfully cancelled
+12/19/2025 0:43,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/19/2025 0:38,Order 2574604323 modification confirmed
+12/19/2025 0:38,Order 2574604322 modification confirmed
+12/19/2025 0:38,Modify position for symbol DELTAIN:BTCUSD.P with SL 85873.5 and TP 85428.2
+12/19/2025 0:38,Order 2574604323 modification confirmed
+12/19/2025 0:38,Order 2574604322 modification confirmed
+12/19/2025 0:38,Modify position for symbol DELTAIN:BTCUSD.P with SL 85873.5 and TP 85196.6
+12/19/2025 0:37,Order 2574611208 for symbol BLACKBULL:US30 has been executed at price 48020.00 for 4 units
+12/19/2025 0:37,Order 2574611209 successfully cancelled
+12/19/2025 0:35,Order 2574604323 modification confirmed
+12/19/2025 0:35,Order 2574604322 modification confirmed
+12/19/2025 0:35,Modify position for symbol DELTAIN:BTCUSD.P with SL 85962.6 and TP 85196.6
+12/19/2025 0:35,Order 2574604323 modification confirmed
+12/19/2025 0:35,Order 2574604322 modification confirmed
+12/19/2025 0:35,Modify position for symbol DELTAIN:BTCUSD.P with SL 85811.2 and TP 85196.6
+12/19/2025 0:35,Order 2574604323 modification confirmed
+12/19/2025 0:35,Order 2574604322 modification confirmed
+12/19/2025 0:35,Modify position for symbol DELTAIN:BTCUSD.P with SL 85811.2 and TP 85033.6
+12/19/2025 0:34,Order 2574611209 successfully placed
+12/19/2025 0:34,Order 2574611208 successfully placed
+12/19/2025 0:34,Modify position for symbol BLACKBULL:US30 with SL 48014.24 and TP 47917.45
+12/19/2025 0:34,Order 2574610348 for symbol BLACKBULL:US30 has been executed at price 47976.00 for 4 units
+12/19/2025 0:34,Order 2574610348 successfully placed
+12/19/2025 0:34,Call to place market order to sell 4 units of symbol BLACKBULL:US30 
+12/19/2025 0:34,Failed to execute order 2574609995; reason: insufficient funds
+12/19/2025 0:34,Order 2574609995 successfully placed
+12/19/2025 0:34,Call to place market order to sell 5 units of symbol BLACKBULL:US30 
+12/19/2025 0:32,Order 2574604323 successfully placed
+12/19/2025 0:32,Order 2574604322 successfully placed
+12/19/2025 0:32,Modify position for symbol DELTAIN:BTCUSD.P with SL 85978.1 and TP 85033.6
+12/19/2025 0:32,Order 2574603350 for symbol DELTAIN:BTCUSD.P has been executed at price 85659.5 for 13 units
+12/19/2025 0:32,Order 2574603350 successfully placed
+12/19/2025 0:32,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/18/2025 22:47,Order 2572380292 for symbol CRYPTO:ETHUSD has been executed at price 2824.81 for 440 units
+12/18/2025 15:15,Order 2571333767 for symbol DELTAIN:BTCUSD.P has been executed at price 87359.0 for 1 units
+12/18/2025 15:15,Order 2571333768 successfully cancelled
+12/18/2025 15:15,Order 2571333768 modification confirmed
+12/18/2025 15:15,Order 2571333767 modification confirmed
+12/18/2025 15:15,Modify position for symbol DELTAIN:BTCUSD.P with SL 87356.3 and TP 86074.0
+12/18/2025 15:14,Order 2571333768 modification confirmed
+12/18/2025 15:14,Order 2571333767 modification confirmed
+12/18/2025 15:14,Modify position for symbol DELTAIN:BTCUSD.P with SL 87941.3 and TP 86074.0
+12/18/2025 15:14,Order 2572380292 successfully placed
+12/18/2025 15:14,Modify position for symbol CRYPTO:ETHUSD with TP 2825.07
+12/18/2025 5:18,Order 2571413562 successfully cancelled
+12/18/2025 5:18,Modify position for symbol CRYPTO:ETHUSD
+12/18/2025 5:12,Order 2571413562 successfully placed
+12/18/2025 5:12,Modify position for symbol CRYPTO:ETHUSD with TP 2820.33
+12/18/2025 5:01,Order 2571401343 for symbol CRYPTO:ETHUSD has been executed at price 2825.07 for 440 units
+12/18/2025 5:01,Order 2571401343 successfully placed
+12/18/2025 5:01,Call to place market order to sell 440 units of symbol CRYPTO:ETHUSD 
+12/18/2025 3:51,Order 2571333768 successfully placed
+12/18/2025 3:51,Order 2571333767 successfully placed
+12/18/2025 3:51,Modify position for symbol DELTAIN:BTCUSD.P with SL 87941.3 and TP 82444.7
+12/18/2025 3:50,Order 2571333281 for symbol DELTAIN:BTCUSD.P has been executed at price 86074.0 for 1 units
+12/18/2025 3:50,Order 2571333281 successfully placed
+12/18/2025 3:50,Call to place market order to sell 1 units of symbol DELTAIN:BTCUSD.P 
+12/18/2025 3:45,Order 2571329022 rejected; reason: out_of_session
+12/18/2025 3:45,Call to place market order to sell 300 units of symbol FX:XAUUSD 
+12/18/2025 2:06,Order 2571175118 for symbol BMFBOVESPA:SOL1! has been executed at price 123.16 for 2100 units
+12/18/2025 2:06,Order 2571175118 successfully placed
+12/18/2025 2:06,Call to place market order to buy 2100 units of symbol BMFBOVESPA:SOL1! 
+12/18/2025 2:06,Order 2571174968 for symbol BMFBOVESPA:SOL1! has been executed at price 123.18 for 2100 units
+12/18/2025 2:06,Order 2571174968 successfully placed
+12/18/2025 2:06,Call to place market order to sell 2100 units of symbol BMFBOVESPA:SOL1! 
+12/18/2025 2:05,Order 2571174605 for symbol BMFBOVESPA:SOL1! has been executed at price 123.21 for 2102 units
+12/18/2025 2:05,Order 2571174605 successfully placed
+12/18/2025 2:05,Order 2571162020 successfully cancelled
+12/18/2025 2:05,Order 2571162019 successfully cancelled
+12/18/2025 2:05,Call to place market order to buy 2102 units of symbol BMFBOVESPA:SOL1! 
+12/18/2025 2:05,Order 2571174373 for symbol BMFBOVESPA:SOL1! has been executed at price 123.16 for 2100 units
+12/18/2025 2:05,Order 2571174373 successfully placed
+12/18/2025 2:05,Call to place market order to sell 2100 units of symbol BMFBOVESPA:SOL1! 
+12/18/2025 2:04,Order 2571171697 for symbol BMFBOVESPA:SOL1! has been executed at price 123.04 for 1 units
+12/18/2025 2:04,Order 2571171697 successfully placed
+12/18/2025 2:04,Call to place market order to sell 1 units of symbol BMFBOVESPA:SOL1! 
+12/18/2025 2:00,Order 2571162020 successfully placed
+12/18/2025 2:00,Order 2571162019 successfully placed
+12/18/2025 2:00,Modify position for symbol BMFBOVESPA:SOL1! with SL 127.76 and TP 100.18
+12/18/2025 2:00,Order 2571160836 for symbol BMFBOVESPA:SOL1! has been executed at price 123.56 for 1 units
+12/18/2025 2:00,Order 2571160836 successfully placed
+12/18/2025 2:00,Call to place market order to sell 1 units of symbol BMFBOVESPA:SOL1! 
+12/18/2025 0:51,Order 2570986983 for symbol DELTAIN:BTCUSD.P has been executed at price 85808.0 for 1 units
+12/18/2025 0:51,Order 2570986983 successfully placed
+12/18/2025 0:51,Order 2570984877 successfully cancelled
+12/18/2025 0:51,Order 2570984146 successfully cancelled
+12/18/2025 0:51,Call to place market order to buy 1 units of symbol DELTAIN:BTCUSD.P 
+12/18/2025 0:50,Order 2570984877 successfully placed
+12/18/2025 0:50,Order 2570984146 modification confirmed
+12/18/2025 0:50,Modify position for symbol DELTAIN:BTCUSD.P with SL 88106.6 and TP 80050.5
+12/18/2025 0:50,Order 2570984146 successfully placed
+12/18/2025 0:50,Modify position for symbol DELTAIN:BTCUSD.P with SL 88106.6
+12/18/2025 0:50,Order 2570983576 for symbol DELTAIN:BTCUSD.P has been executed at price 85749.5 for 1 units
+12/18/2025 0:50,Order 2570983576 successfully placed
+12/18/2025 0:50,Call to place market order to sell 1 units of symbol DELTAIN:BTCUSD.P 
+12/18/2025 0:45,Order 2570971276 for symbol CRYPTO:ETHUSD has been executed at price 2800.89 for 470 units
+12/18/2025 0:45,Order 2570971276 successfully placed
+12/18/2025 0:45,Call to place market order to buy 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:45,Order 2570969596 for symbol CRYPTO:ETHUSD has been executed at price 2799.35 for 470 units
+12/18/2025 0:45,Order 2570969596 successfully placed
+12/18/2025 0:45,Call to place market order to sell 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:44,Order 2570968059 for symbol CRYPTO:ETHUSD has been executed at price 2802.52 for 470 units
+12/18/2025 0:44,Order 2570968059 successfully placed
+12/18/2025 0:44,Call to place market order to buy 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:44,Order 2570966268 for symbol CRYPTO:ETHUSD has been executed at price 2796.42 for 470 units
+12/18/2025 0:44,Order 2570966268 successfully placed
+12/18/2025 0:44,Call to place market order to sell 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:40,Order 2570957922 for symbol CRYPTO:ETHUSD has been executed at price 2792.96 for 470 units
+12/18/2025 0:40,Order 2570957922 successfully placed
+12/18/2025 0:40,Call to place market order to buy 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:38,Order 2570951593 for symbol CRYPTO:ETHUSD has been executed at price 2795.71 for 470 units
+12/18/2025 0:38,Order 2570951593 successfully placed
+12/18/2025 0:38,Call to place market order to sell 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:37,Order 2570949595 for symbol CRYPTO:ETHUSD has been executed at price 2801.07 for 470 units
+12/18/2025 0:37,Order 2570949595 successfully placed
+12/18/2025 0:37,Order 2570937443 successfully cancelled
+12/18/2025 0:37,Call to place market order to buy 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:33,Order 2570937443 successfully placed
+12/18/2025 0:33,Modify position for symbol CRYPTO:ETHUSD with TP 2800.60
+12/18/2025 0:33,Order 2570934960 for symbol CRYPTO:ETHUSD has been executed at price 2804.97 for 470 units
+12/18/2025 0:33,Order 2570934960 successfully placed
+12/18/2025 0:33,Call to place market order to sell 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:31,Order 2570931065 for symbol CRYPTO:ETHUSD has been executed at price 2811.13 for 470 units
+12/18/2025 0:31,Order 2570931065 successfully placed
+12/18/2025 0:31,Order 2570927385 successfully cancelled
+12/18/2025 0:31,Call to place market order to buy 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:30,Order 2570927385 successfully placed
+12/18/2025 0:30,Modify position for symbol CRYPTO:ETHUSD with TP 2809.73
+12/18/2025 0:30,Order 2570926464 for symbol CRYPTO:ETHUSD has been executed at price 2814.02 for 470 units
+12/18/2025 0:30,Order 2570926464 successfully placed
+12/18/2025 0:30,Call to place market order to sell 470 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:25,Order 2570912373 for symbol CRYPTO:ETHUSD has been executed at price 2813.01 for 460 units
+12/18/2025 0:25,Order 2570912373 successfully placed
+12/18/2025 0:25,Modify position for symbol CRYPTO:ETHUSD with TP 2814.18
+12/18/2025 0:25,Order 2570910533 for symbol CRYPTO:ETHUSD has been executed at price 2818.72 for 460 units
+12/18/2025 0:25,Order 2570910533 successfully placed
+12/18/2025 0:25,Call to place market order to sell 460 units of symbol CRYPTO:ETHUSD 
+12/18/2025 0:23,Order 2570907291 for symbol DELTAIN:BTCUSD.P has been executed at price 85891.5 for 13 units
+12/18/2025 0:23,Order 2570907291 successfully placed
+12/18/2025 0:23,Order 2570894968 successfully cancelled
+12/18/2025 0:23,Order 2570894967 successfully cancelled
+12/18/2025 0:23,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/18/2025 0:20,Order 2570894968 successfully placed
+12/18/2025 0:20,Order 2570894967 successfully placed
+12/18/2025 0:20,Modify position for symbol DELTAIN:BTCUSD.P with SL 86327.2 and TP 84997.9
+12/18/2025 0:20,Order 2570894258 for symbol DELTAIN:BTCUSD.P has been executed at price 85732.0 for 13 units
+12/18/2025 0:20,Order 2570894258 successfully placed
+12/18/2025 0:20,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/17/2025 22:02,Order 2570360434 for symbol CRYPTO:ETHUSD has been executed at price 2839.23 for 460 units
+12/17/2025 22:02,Order 2570360434 successfully placed
+12/17/2025 22:02,Order 2570358043 successfully cancelled
+12/17/2025 22:02,Call to place market order to buy 460 units of symbol CRYPTO:ETHUSD 
+12/17/2025 22:02,Order 2570358043 successfully placed
+12/17/2025 22:02,Modify position for symbol CRYPTO:ETHUSD with TP 2834.21
+12/17/2025 22:02,Order 2570356680 for symbol CRYPTO:ETHUSD has been executed at price 2839.64 for 460 units
+12/17/2025 22:02,Order 2570356680 successfully placed
+12/17/2025 22:01,Call to place market order to sell 460 units of symbol CRYPTO:ETHUSD 
+12/17/2025 22:01,Failed to execute order 2570355640; reason: insufficient funds
+12/17/2025 22:01,Order 2570355640 successfully placed
+12/17/2025 22:01,Call to place market order to sell 470 units of symbol CRYPTO:ETHUSD 
+12/17/2025 22:00,Order 2570347442 for symbol CRYPTO:ETHUSD has been executed at price 2840.04 for 450 units
+12/17/2025 22:00,Order 2570347442 successfully placed
+12/17/2025 22:00,Call to place market order to buy 450 units of symbol CRYPTO:ETHUSD 
+12/17/2025 21:59,Order 2570344607 for symbol CRYPTO:ETHUSD has been executed at price 2846.29 for 450 units
+12/17/2025 21:59,Order 2570344607 successfully placed
+12/17/2025 21:59,Call to place market order to sell 450 units of symbol CRYPTO:ETHUSD 
+12/17/2025 21:45,Order 2570183179 for symbol CRYPTO:ETHUSD has been executed at price 2865.05 for 394 units
+12/17/2025 21:32,Order 2570183179 successfully placed
+12/17/2025 21:32,Modify position for symbol CRYPTO:ETHUSD with TP 2865.13
+12/17/2025 21:29,Order 2570163311 for symbol CRYPTO:ETHUSD has been executed at price 2903.31 for 394 units
+12/17/2025 21:29,Order 2570163311 successfully placed
+12/17/2025 21:29,Call to place market order to sell 394 units of symbol CRYPTO:ETHUSD 
+12/17/2025 21:28,Order 2570159550 for symbol CRYPTO:ETHUSD has been executed at price 2899.79 for 350 units
+12/17/2025 21:28,Order 2570159550 successfully placed
+12/17/2025 21:28,Order 2567025310 successfully cancelled
+12/17/2025 21:28,Call to place market order to buy 350 units of symbol CRYPTO:ETHUSD 
+12/16/2025 23:46,Order 2567025310 modification confirmed
+12/16/2025 23:46,Modify position for symbol CRYPTO:ETHUSD with TP 2837.98
+12/16/2025 23:46,Order 2567025310 modification confirmed
+12/16/2025 23:46,Modify position for symbol CRYPTO:ETHUSD with TP 2831.86
+12/16/2025 23:46,Order 2567025310 successfully placed
+12/16/2025 23:46,Modify position for symbol CRYPTO:ETHUSD with TP 2825.74
+12/16/2025 23:14,Order 2566905612 for symbol CRYPTO:ETHUSD has been executed at price 2923.93 for 350 units
+12/16/2025 23:14,Order 2566905612 successfully placed
+12/16/2025 23:14,Call to place market order to sell 350 units of symbol CRYPTO:ETHUSD 
+12/16/2025 23:13,Order 2566904123 for symbol BITSTAMP:ETHUSD has been executed at price 2921.6 for 400 units
+12/16/2025 23:13,Order 2566904123 successfully placed
+12/16/2025 23:13,Order 2566546873 successfully cancelled
+12/16/2025 23:13,Call to place market order to sell 400 units of symbol BITSTAMP:ETHUSD 
+12/16/2025 21:58,Order 2566546873 modification confirmed
+12/16/2025 21:58,Modify position for symbol BITSTAMP:ETHUSD with TP 2965.0
+12/16/2025 21:58,Order 2566546873 modification confirmed
+12/16/2025 21:58,Modify position for symbol BITSTAMP:ETHUSD with TP 2963.5
+12/16/2025 21:55,Order 2566546873 modification confirmed
+12/16/2025 21:55,Modify position for symbol BITSTAMP:ETHUSD with TP 2965.0
+12/16/2025 21:53,Order 2566546873 successfully placed
+12/16/2025 21:53,Modify position for symbol BITSTAMP:ETHUSD with TP 2961.2
+12/16/2025 21:53,Order 2566544380 for symbol BITSTAMP:ETHUSD has been executed at price 2953.7 for 400 units
+12/16/2025 21:53,Order 2566544380 successfully placed
+12/16/2025 21:53,Call to place market order to buy 400 units of symbol BITSTAMP:ETHUSD 
+12/16/2025 21:49,Order 2566502330 for symbol BITSTAMP:BTCUSD has been executed at price 87790 for 13 units
+12/16/2025 21:47,Order 2566502330 modification confirmed
+12/16/2025 21:47,Modify position for symbol BITSTAMP:BTCUSD with TP 87789
+12/16/2025 21:45,Order 2566502330 successfully placed
+12/16/2025 21:45,Modify position for symbol BITSTAMP:BTCUSD with TP 87730
+12/16/2025 21:43,Order 2566486893 for symbol BITSTAMP:BTCUSD has been executed at price 87630 for 13 units
+12/16/2025 21:43,Order 2566486893 successfully placed
+12/16/2025 21:43,Call to place market order to buy 13 units of symbol BITSTAMP:BTCUSD 
+12/16/2025 21:08,Order 2566269588 for symbol BITSTAMP:BTCUSD has been executed at price 87109 for 13 units
+12/16/2025 21:08,Order 2566269588 successfully placed
+12/16/2025 21:08,Order 2566244470 successfully cancelled
+12/16/2025 21:08,Call to place market order to buy 13 units of symbol BITSTAMP:BTCUSD 
+12/16/2025 21:07,Order 2566244470 modification confirmed
+12/16/2025 21:07,Modify position for symbol BITSTAMP:BTCUSD with TP 86392
+12/16/2025 21:06,Order 2566244470 modification confirmed
+12/16/2025 21:06,Modify position for symbol BITSTAMP:BTCUSD with TP 86481
+12/16/2025 21:05,Order 2566244470 modification confirmed
+12/16/2025 21:05,Modify position for symbol BITSTAMP:BTCUSD with TP 86086
+12/16/2025 21:05,Order 2566244470 successfully placed
+12/16/2025 21:05,Modify position for symbol BITSTAMP:BTCUSD with TP 86863
+12/16/2025 21:03,Order 2566228422 for symbol BITSTAMP:BTCUSD has been executed at price 87251 for 26 units
+12/16/2025 21:03,Order 2566228422 successfully placed
+12/16/2025 21:03,Call to place market order to sell 26 units of symbol BITSTAMP:BTCUSD 
+12/16/2025 21:02,Order 2566222738 for symbol BITSTAMP:BTCUSD has been executed at price 87276 for 26 units
+12/16/2025 21:02,Order 2566222738 successfully placed
+12/16/2025 21:02,Call to place market order to buy 26 units of symbol BITSTAMP:BTCUSD 
+12/16/2025 20:55,Order 2566167359 for symbol BITSTAMP:BTCUSD has been executed at price 86990 for 13 units
+12/16/2025 20:55,Order 2566167359 successfully placed
+12/16/2025 20:55,Call to place market order to sell 13 units of symbol BITSTAMP:BTCUSD 
+12/16/2025 20:52,Order 2566144915 for symbol OANDA:XAUUSD has been executed at price 4318.920 for 280 units
+12/16/2025 20:52,Order 2566144915 successfully placed
+12/16/2025 20:52,Order 2566132708 successfully cancelled
+12/16/2025 20:52,Call to place market order to buy 280 units of symbol OANDA:XAUUSD 
+12/16/2025 20:50,Order 2566132708 successfully placed
+12/16/2025 20:50,Modify position for symbol OANDA:XAUUSD with TP 4306.998
+12/16/2025 20:50,Order 2566131447 for symbol OANDA:XAUUSD has been executed at price 4312.640 for 280 units
+12/16/2025 20:50,Order 2566131447 successfully placed
+12/16/2025 20:50,Call to place market order to sell 280 units of symbol OANDA:XAUUSD 
+12/16/2025 20:47,Order 2566102538 for symbol OANDA:XAUUSD has been executed at price 4323.740 for 280 units
+12/16/2025 20:47,Order 2566102538 successfully placed
+12/16/2025 20:47,Call to place market order to sell 280 units of symbol OANDA:XAUUSD 
+12/16/2025 20:46,Order 2566098990 for symbol OANDA:XAUUSD has been executed at price 4324.850 for 560 units
+12/16/2025 20:46,Order 2566098990 successfully placed
+12/16/2025 20:46,Call to place market order to buy 560 units of symbol OANDA:XAUUSD 
+12/16/2025 20:45,Order 2566085617 for symbol OANDA:XAUUSD has been executed at price 4321.770 for 560 units
+12/16/2025 20:45,Order 2566078566 successfully cancelled
+12/16/2025 20:45,Order 2566085617 successfully placed
+12/16/2025 20:45,Call to place market order to sell 560 units of symbol OANDA:XAUUSD 
+12/16/2025 20:44,Order 2566078566 successfully placed
+12/16/2025 20:44,Modify position for symbol OANDA:XAUUSD with TP 4336.511
+12/16/2025 20:43,Order 2566027587 successfully cancelled
+12/16/2025 20:43,Modify position for symbol OANDA:XAUUSD
+12/16/2025 20:38,Order 2566027587 successfully placed
+12/16/2025 20:38,Modify position for symbol OANDA:XAUUSD with TP 4336.532
+12/16/2025 20:36,Order 2566013329 for symbol OANDA:XAUUSD has been executed at price 4332.940 for 280 units
+12/16/2025 20:36,Order 2566013329 successfully placed
+12/16/2025 20:36,Call to place market order to buy 280 units of symbol OANDA:XAUUSD 
+12/16/2025 20:20,Order 2565846474 for symbol OANDA:XAUUSD has been executed at price 4330.760 for 280 units
+12/16/2025 20:20,Order 2565846473 successfully cancelled
+12/16/2025 20:18,Order 2565846474 modification confirmed
+12/16/2025 20:18,Order 2565846473 modification confirmed
+12/16/2025 20:18,Modify position for symbol OANDA:XAUUSD with SL 4324.963 and TP 4330.401
+12/16/2025 20:18,Order 2565846474 successfully placed
+12/16/2025 20:18,Order 2565846473 successfully placed
+12/16/2025 20:18,Modify position for symbol OANDA:XAUUSD with SL 4324.963 and TP 4329.997
+12/16/2025 20:17,Order 2565828187 for symbol OANDA:XAUUSD has been executed at price 4326.750 for 280 units
+12/16/2025 20:17,Order 2565828187 successfully placed
+12/16/2025 20:17,Call to place market order to buy 280 units of symbol OANDA:XAUUSD 
+12/16/2025 17:41,Order 2565143791 for symbol DELTAIN:BTCUSD.P has been executed at price 87200.0 for 13 units
+12/16/2025 17:41,Order 2565143791 successfully placed
+12/16/2025 17:41,Order 2565125871 successfully cancelled
+12/16/2025 17:41,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/16/2025 17:33,Order 2565125871 successfully placed
+12/16/2025 17:33,Modify position for symbol DELTAIN:BTCUSD.P with TP 87309.4
+12/16/2025 17:31,Order 2565122253 for symbol FX:XAUUSD has been executed at price 4277.47 for 25 units
+12/16/2025 17:31,Order 2565122253 successfully placed
+12/16/2025 17:31,Call to place market order to sell 25 units of symbol FX:XAUUSD 
+12/16/2025 17:29,Order 2565117385 for symbol FX:XAUUSD has been executed at price 4278.81 for 25 units
+12/16/2025 17:29,Order 2565117385 successfully placed
+12/16/2025 17:29,Call to place market order to buy 25 units of symbol FX:XAUUSD 
+12/16/2025 17:29,Order 2565116478 for symbol DELTAIN:BTCUSD.P has been executed at price 87229.5 for 13 units
+12/16/2025 17:29,Order 2565116478 successfully placed
+12/16/2025 17:29,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/16/2025 15:29,Order 2564854200 for symbol FX:XAUUSD has been executed at price 4280.28 for 285 units
+12/16/2025 15:29,Order 2564853709 successfully cancelled
+12/16/2025 15:21,Order 2564853709 modification confirmed
+12/16/2025 15:21,Order 2564854200 successfully placed
+12/16/2025 15:21,Modify position for symbol FX:XAUUSD with SL 4280.28 and TP 4276.74
+12/16/2025 15:21,Order 2564853709 successfully placed
+12/16/2025 15:21,Modify position for symbol FX:XAUUSD with TP 4276.74
+12/16/2025 15:21,Order 2564852280 for symbol FX:XAUUSD has been executed at price 4278.50 for 285 units
+12/16/2025 15:21,Order 2564852280 successfully placed
+12/16/2025 15:21,Call to place market order to sell 285 units of symbol FX:XAUUSD 
+12/15/2025 7:08,Order 2559460451 for symbol DELTAIN:BTCUSD.P has been executed at price 89248.5 for 13 units
+12/14/2025 23:54,Order 2559460451 modification confirmed
+12/14/2025 23:54,Modify position for symbol DELTAIN:BTCUSD.P with TP 89248.0
+12/14/2025 23:54,Order 2559460451 modification confirmed
+12/14/2025 23:54,Modify position for symbol DELTAIN:BTCUSD.P with TP 89209.6
+12/14/2025 22:02,Order 2559460451 successfully placed
+12/14/2025 22:02,Modify position for symbol DELTAIN:BTCUSD.P with TP 89324.7
+12/14/2025 22:00,Order 2559457101 for symbol DELTAIN:BTCUSD.P has been executed at price 89286.5 for 13 units
+12/14/2025 22:00,Order 2559457101 successfully placed
+12/14/2025 22:00,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/14/2025 21:24,Order 2559401500 for symbol DELTAIN:BTCUSD.P has been executed at price 88982.5 for 13 units
+12/14/2025 21:24,Order 2559401500 successfully placed
+12/14/2025 21:24,Order 2559396893 successfully cancelled
+12/14/2025 21:24,Order 2559396892 successfully cancelled
+12/14/2025 21:24,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/14/2025 21:20,Order 2559396893 successfully placed
+12/14/2025 21:20,Order 2559396892 successfully placed
+12/14/2025 21:20,Modify position for symbol DELTAIN:BTCUSD.P with SL 89233.6 and TP 88628.1
+12/14/2025 21:20,Order 2559396482 for symbol DELTAIN:BTCUSD.P has been executed at price 88973.0 for 13 units
+12/14/2025 21:20,Order 2559396482 successfully placed
+12/14/2025 21:20,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/13/2025 4:46,Order 2557093940 rejected; reason: out_of_session
+12/13/2025 4:46,Call to place market order to sell 1 units of symbol OANDA:XAUUSD 
+12/13/2025 4:46,Order 2557093900 rejected; reason: out_of_session
+12/13/2025 4:46,Call to place market order to sell 1 units of symbol OANDA:XAUUSD 
+12/13/2025 1:03,Order 2556793837 for symbol CRYPTO:ETHUSD has been executed at price 3072.55 for 400 units
+12/13/2025 1:03,Order 2556793837 successfully placed
+12/13/2025 1:03,Order 2556766338 successfully cancelled
+12/13/2025 1:03,Call to place market order to buy 400 units of symbol CRYPTO:ETHUSD 
+12/13/2025 0:54,Order 2556766338 modification confirmed
+12/13/2025 0:54,Modify position for symbol CRYPTO:ETHUSD with TP 3069.01
+12/13/2025 0:54,Order 2556766338 modification confirmed
+12/13/2025 0:54,Modify position for symbol CRYPTO:ETHUSD with TP 3067.31
+12/13/2025 0:52,Order 2556766338 successfully placed
+12/13/2025 0:52,Modify position for symbol CRYPTO:ETHUSD with TP 3056.51
+12/13/2025 0:52,Order 2556765807 for symbol CRYPTO:ETHUSD has been executed at price 3072.42 for 400 units
+12/13/2025 0:52,Order 2556765807 successfully placed
+12/13/2025 0:52,Call to place market order to sell 400 units of symbol CRYPTO:ETHUSD 
+12/13/2025 0:20,Order 2556673280 for symbol DELTAIN:BTCUSD.P has been executed at price 90580.0 for 13 units
+12/13/2025 0:20,Order 2556673280 successfully placed
+12/13/2025 0:20,Order 2556642860 successfully cancelled
+12/13/2025 0:20,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/13/2025 0:10,Order 2556642860 successfully placed
+12/13/2025 0:10,Modify position for symbol DELTAIN:BTCUSD.P with TP 90649.5
+12/13/2025 0:10,Order 2556642373 for symbol DELTAIN:BTCUSD.P has been executed at price 90569.5 for 13 units
+12/13/2025 0:10,Order 2556642373 successfully placed
+12/13/2025 0:10,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/13/2025 0:07,Order 2556633507 for symbol DELTAIN:BTCUSD.P has been executed at price 90508.5 for 13 units
+12/13/2025 0:07,Order 2556633507 successfully placed
+12/13/2025 0:07,Order 2556616327 successfully cancelled
+12/13/2025 0:07,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/13/2025 0:02,Order 2556616327 modification confirmed
+12/13/2025 0:02,Modify position for symbol DELTAIN:BTCUSD.P with TP 90606.3
+12/13/2025 0:02,Order 2556616327 modification confirmed
+12/13/2025 0:02,Modify position for symbol DELTAIN:BTCUSD.P with TP 90633.3
+12/13/2025 0:01,Order 2556616327 modification confirmed
+12/13/2025 0:01,Modify position for symbol DELTAIN:BTCUSD.P with TP 90676.8
+12/13/2025 0:00,Order 2556616327 successfully placed
+12/13/2025 0:00,Modify position for symbol DELTAIN:BTCUSD.P with TP 90685.8
+12/13/2025 0:00,Order 2556615871 for symbol DELTAIN:BTCUSD.P has been executed at price 90523.0 for 13 units
+12/13/2025 0:00,Order 2556615871 successfully placed
+12/13/2025 0:00,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 23:59,Order 2556612929 for symbol DELTAIN:BTCUSD.P has been executed at price 90484.5 for 13 units
+12/12/2025 23:59,Order 2556612929 successfully placed
+12/12/2025 23:59,Order 2556610717 successfully cancelled
+12/12/2025 23:59,Order 2556610716 successfully cancelled
+12/12/2025 23:59,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 23:58,Order 2556610717 successfully placed
+12/12/2025 23:58,Order 2556610716 successfully placed
+12/12/2025 23:58,Modify position for symbol DELTAIN:BTCUSD.P with SL 90292.0 and TP 90843.4
+12/12/2025 23:58,Order 2556609738 for symbol DELTAIN:BTCUSD.P has been executed at price 90478.0 for 13 units
+12/12/2025 23:58,Order 2556609738 successfully placed
+12/12/2025 23:58,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 23:38,Order 2556540606 for symbol FX:XAUUSD has been executed at price 4298.11 for 285 units
+12/12/2025 23:38,Order 2556540606 successfully placed
+12/12/2025 23:38,Order 2556524283 successfully cancelled
+12/12/2025 23:38,Call to place market order to sell 285 units of symbol FX:XAUUSD 
+12/12/2025 23:32,Order 2556524283 successfully placed
+12/12/2025 23:32,Modify position for symbol FX:XAUUSD with TP 4299.33
+12/12/2025 23:32,Order 2556523674 for symbol FX:XAUUSD has been executed at price 4294.25 for 285 units
+12/12/2025 23:32,Order 2556523674 successfully placed
+12/12/2025 23:32,Call to place market order to buy 285 units of symbol FX:XAUUSD 
+12/12/2025 23:30,Order 2556517735 for symbol FX:XAUUSD has been executed at price 4292.25 for 285 units
+12/12/2025 23:30,Order 2556517735 successfully placed
+12/12/2025 23:30,Order 2556466974 successfully cancelled
+12/12/2025 23:30,Order 2556466015 successfully cancelled
+12/12/2025 23:30,Call to place market order to sell 285 units of symbol FX:XAUUSD 
+12/12/2025 23:15,Order 2556466974 successfully placed
+12/12/2025 23:15,Order 2556466015 modification confirmed
+12/12/2025 23:15,Modify position for symbol FX:XAUUSD with SL 4289.92 and TP 4298.90
+12/12/2025 23:15,Order 2556466015 successfully placed
+12/12/2025 23:15,Modify position for symbol FX:XAUUSD with SL 4289.92
+12/12/2025 23:11,Order 2556450208 for symbol FX:XAUUSD has been executed at price 4292.93 for 285 units
+12/12/2025 23:11,Order 2556450208 successfully placed
+12/12/2025 23:11,Call to place market order to buy 285 units of symbol FX:XAUUSD 
+12/12/2025 18:02,Order 2554850874 for symbol DELTAIN:BTCUSD.P has been executed at price 92131.0 for 13 units
+12/12/2025 18:02,Order 2554850874 successfully placed
+12/12/2025 18:02,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 18:01,Order 2554849793 for symbol DELTAIN:BTCUSD.P has been executed at price 92137.0 for 13 units
+12/12/2025 18:01,Order 2554849793 successfully placed
+12/12/2025 18:01,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 17:18,Order 2554760482 for symbol FX:XAUUSD has been executed at price 4337.85 for 280 units
+12/12/2025 17:18,Order 2554760482 successfully placed
+12/12/2025 17:18,Order 2554649217 successfully cancelled
+12/12/2025 17:18,Call to place market order to sell 280 units of symbol FX:XAUUSD 
+12/12/2025 17:07,Order 2554649217 modification confirmed
+12/12/2025 17:07,Modify position for symbol FX:XAUUSD with TP 4340.85
+12/12/2025 16:26,Order 2554649217 modification confirmed
+12/12/2025 16:26,Order 2554662688 successfully cancelled
+12/12/2025 16:26,Modify position for symbol FX:XAUUSD with TP 4353.43
+12/12/2025 16:26,Order 2554649217 modification confirmed
+12/12/2025 16:26,Order 2554662688 successfully placed
+12/12/2025 16:26,Modify position for symbol FX:XAUUSD with SL 4316.43 and TP 4353.43
+12/12/2025 16:18,Order 2554649217 successfully placed
+12/12/2025 16:18,Modify position for symbol FX:XAUUSD with TP 4353.43
+12/12/2025 16:18,Order 2554648752 for symbol FX:XAUUSD has been executed at price 4330.13 for 280 units
+12/12/2025 16:18,Order 2554648752 successfully placed
+12/12/2025 16:18,Call to place market order to buy 280 units of symbol FX:XAUUSD 
+12/12/2025 15:46,Failed to execute order 2554588509; reason: insufficient funds
+12/12/2025 15:46,Order 2554588509 successfully placed
+12/12/2025 15:46,Call to place market order to buy 285 units of symbol FX:XAUUSD 
+12/12/2025 4:24,Order 2553495561 for symbol DELTAIN:BTCUSD.P has been executed at price 92124.5 for 13 units
+12/12/2025 4:24,Order 2553495561 successfully placed
+12/12/2025 4:24,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 4:23,Order 2553495019 for symbol DELTAIN:BTCUSD.P has been executed at price 92188.0 for 13 units
+12/12/2025 4:23,Order 2553495019 successfully placed
+12/12/2025 4:23,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 3:07,Order 2553371412 for symbol DELTAIN:BTCUSD.P has been executed at price 93040.0 for 13 units
+12/12/2025 3:01,Order 2553371412 modification confirmed
+12/12/2025 3:01,Modify position for symbol DELTAIN:BTCUSD.P with TP 93057.2
+12/12/2025 2:59,Order 2553371412 activated at price 92811.1
+12/12/2025 2:59,Order 2553370656 for symbol DELTAIN:BTCUSD.P has been executed at price 93015.5 for 13 units
+12/12/2025 2:52,Order 2553371412 successfully placed
+12/12/2025 2:52,Order 2553370656 modification confirmed
+12/12/2025 2:52,Modified order 2553370656 for symbol DELTAIN:BTCUSD.P with price 93000.0 for 13 units with TP 92811.1
+12/12/2025 2:52,Order 2553370656 successfully placed
+12/12/2025 2:52,Call to place limit order to sell 13 units of symbol DELTAIN:BTCUSD.P at price 93000.00 
+12/12/2025 2:49,Order 2553365761 for symbol FX:XAUUSD has been executed at price 4274.76 for 285 units
+12/12/2025 2:49,Order 2553365761 successfully placed
+12/12/2025 2:49,Order 2553363621 successfully cancelled
+12/12/2025 2:49,Call to place market order to sell 285 units of symbol FX:XAUUSD 
+12/12/2025 2:49,Order 2553363621 successfully placed
+12/12/2025 2:49,Modify position for symbol FX:XAUUSD with TP 4275.31
+12/12/2025 2:48,Order 2553362395 for symbol FX:XAUUSD has been executed at price 4275.31 for 570 units
+12/12/2025 2:48,Order 2553354615 successfully cancelled
+12/12/2025 2:48,Order 2553354614 successfully cancelled
+12/12/2025 2:48,Order 2553362395 successfully placed
+12/12/2025 2:48,Call to place market order to buy 570 units of symbol FX:XAUUSD 
+12/12/2025 2:45,Order 2553354615 modification confirmed
+12/12/2025 2:45,Order 2553354614 modification confirmed
+12/12/2025 2:45,Modify position for symbol FX:XAUUSD with SL 4277.18 and TP 4264.17
+12/12/2025 2:45,Order 2553354615 successfully placed
+12/12/2025 2:45,Order 2553354614 successfully placed
+12/12/2025 2:45,Modify position for symbol FX:XAUUSD with SL 4275.88 and TP 4264.17
+12/12/2025 2:45,Order 2553353966 for symbol FX:XAUUSD has been executed at price 4272.82 for 285 units
+12/12/2025 2:45,Order 2553353966 successfully placed
+12/12/2025 2:45,Call to place market order to sell 285 units of symbol FX:XAUUSD 
+12/12/2025 2:42,Order 2553347502 successfully cancelled
+12/12/2025 2:42,Order 2553347502 successfully placed
+12/12/2025 2:42,Call to place limit order to sell 13 units of symbol DELTAIN:BTCUSD.P at price 92550.00 
+12/12/2025 2:38,Order 2553337972 for symbol DELTAIN:BTCUSD.P has been executed at price 92273.0 for 13 units
+12/12/2025 2:38,Order 2553337972 successfully placed
+12/12/2025 2:38,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 2:38,Order 2553337410 for symbol DELTAIN:BTCUSD.P has been executed at price 92148.5 for 13 units
+12/12/2025 2:38,Order 2553337410 successfully placed
+12/12/2025 2:38,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 2:36,Order 2553333386 for symbol DELTAIN:BTCUSD.P has been executed at price 91879.5 for 13 units
+12/12/2025 2:36,Order 2553333386 successfully placed
+12/12/2025 2:36,Order 2553325636 successfully cancelled
+12/12/2025 2:36,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 2:32,Order 2553325636 successfully placed
+12/12/2025 2:32,Modify position for symbol DELTAIN:BTCUSD.P with TP 92290.2
+12/12/2025 2:32,Order 2553324645 for symbol DELTAIN:BTCUSD.P has been executed at price 91828.5 for 13 units
+12/12/2025 2:32,Order 2553324645 successfully placed
+12/12/2025 2:32,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 1:07,Order 2553098995 for symbol DELTAIN:BTCUSD.P has been executed at price 91404.0 for 12 units
+12/12/2025 1:07,Order 2553098995 successfully placed
+12/12/2025 1:07,Order 2553076260 successfully cancelled
+12/12/2025 1:07,Order 2553085589 successfully cancelled
+12/12/2025 1:07,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 1:06,Order 2553076260 modification confirmed
+12/12/2025 1:06,Order 2553085589 modification confirmed
+12/12/2025 1:06,Modify position for symbol DELTAIN:BTCUSD.P with SL 91341.5 and TP 91536.0
+12/12/2025 1:06,Order 2553076260 modification confirmed
+12/12/2025 1:06,Order 2553085589 modification confirmed
+12/12/2025 1:06,Modify position for symbol DELTAIN:BTCUSD.P with SL 91235.2 and TP 91536.0
+12/12/2025 1:05,Order 2553076260 modification confirmed
+12/12/2025 1:05,Order 2553085589 modification confirmed
+12/12/2025 1:05,Modify position for symbol DELTAIN:BTCUSD.P with SL 91160.2 and TP 91536.0
+12/12/2025 1:03,Order 2553076260 modification confirmed
+12/12/2025 1:03,Order 2553085589 modification confirmed
+12/12/2025 1:03,Modify position for symbol DELTAIN:BTCUSD.P with SL 91117.7 and TP 91536.0
+12/12/2025 1:03,Order 2553076260 modification confirmed
+12/12/2025 1:03,Order 2553085589 modification confirmed
+12/12/2025 1:03,Modify position for symbol DELTAIN:BTCUSD.P with SL 91034.3 and TP 91536.0
+12/12/2025 1:02,Order 2553076260 modification confirmed
+12/12/2025 1:02,Order 2553085589 successfully placed
+12/12/2025 1:02,Modify position for symbol DELTAIN:BTCUSD.P with SL 91081.9 and TP 91536.0
+12/12/2025 1:00,Order 2553076260 modification confirmed
+12/12/2025 1:00,Modify position for symbol DELTAIN:BTCUSD.P with TP 91536.0
+12/12/2025 0:59,Order 2553076260 successfully placed
+12/12/2025 0:59,Modify position for symbol DELTAIN:BTCUSD.P with TP 91853.5
+12/12/2025 0:59,Order 2553075836 for symbol DELTAIN:BTCUSD.P has been executed at price 91076.0 for 12 units
+12/12/2025 0:59,Order 2553075836 successfully placed
+12/12/2025 0:59,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 0:59,Failed to execute order 2553075564; reason: insufficient funds
+12/12/2025 0:59,Order 2553075564 successfully placed
+12/12/2025 0:59,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 0:49,Order 2553045161 for symbol DELTAIN:BTCUSD.P has been executed at price 90904.5 for 13 units
+12/12/2025 0:49,Order 2553045161 successfully placed
+12/12/2025 0:49,Order 2552934634 successfully cancelled
+12/12/2025 0:49,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/12/2025 0:18,Order 2552934634 successfully placed
+12/12/2025 0:18,Modify position for symbol DELTAIN:BTCUSD.P with TP 91494.6
+12/12/2025 0:17,Order 2552932939 for symbol DELTAIN:BTCUSD.P has been executed at price 91108.5 for 13 units
+12/12/2025 0:17,Order 2552932939 successfully placed
+12/12/2025 0:17,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 23:18,Order 2552709473 for symbol FX:XAUUSD has been executed at price 4273.83 for 250 units
+12/11/2025 23:18,Order 2552709474 successfully cancelled
+12/11/2025 23:16,Order 2552709474 modification confirmed
+12/11/2025 23:16,Order 2552709473 modification confirmed
+12/11/2025 23:16,Modify position for symbol FX:XAUUSD with SL 4274.00 and TP 4280.33
+12/11/2025 23:15,Order 2552709474 modification confirmed
+12/11/2025 23:15,Order 2552709473 modification confirmed
+12/11/2025 23:15,Modify position for symbol FX:XAUUSD with SL 4273.83 and TP 4280.33
+12/11/2025 23:13,Order 2552709474 successfully placed
+12/11/2025 23:13,Order 2552709473 successfully placed
+12/11/2025 23:13,Modify position for symbol FX:XAUUSD with SL 4272.44 and TP 4280.33
+12/11/2025 23:13,Order 2552707906 for symbol FX:XAUUSD has been executed at price 4275.03 for 250 units
+12/11/2025 23:13,Order 2552707906 successfully placed
+12/11/2025 23:13,Call to place market order to buy 250 units of symbol FX:XAUUSD 
+12/11/2025 22:36,Order 2552557120 for symbol FX:XAUUSD has been executed at price 4277.37 for 100 units
+12/11/2025 22:36,Order 2552557120 successfully placed
+12/11/2025 22:36,Order 2552549339 successfully cancelled
+12/11/2025 22:36,Order 2552549917 successfully cancelled
+12/11/2025 22:36,Call to place market order to sell 100 units of symbol FX:XAUUSD 
+12/11/2025 22:35,Order 2552549339 modification confirmed
+12/11/2025 22:35,Order 2552549917 successfully placed
+12/11/2025 22:35,Modify position for symbol FX:XAUUSD with SL 4261.90 and TP 4289.52
+12/11/2025 22:34,Order 2552549339 successfully placed
+12/11/2025 22:34,Modify position for symbol FX:XAUUSD with TP 4289.52
+12/11/2025 22:34,Order 2552548120 for symbol FX:XAUUSD has been executed at price 4275.42 for 100 units
+12/11/2025 22:34,Order 2552548120 successfully placed
+12/11/2025 22:34,Call to place market order to buy 100 units of symbol FX:XAUUSD 
+12/11/2025 22:34,Order 2552547008 for symbol DELTAIN:BTCUSD.P has been executed at price 89771.0 for 12 units
+12/11/2025 22:34,Order 2552547008 successfully placed
+12/11/2025 22:34,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 22:33,Order 2552541749 for symbol DELTAIN:BTCUSD.P has been executed at price 89640.5 for 12 units
+12/11/2025 22:33,Order 2552541749 successfully placed
+12/11/2025 22:33,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 22:30,Order 2552529300 for symbol FX:XAUUSD has been executed at price 4273.64 for 100 units
+12/11/2025 22:30,Order 2552529300 successfully placed
+12/11/2025 22:30,Order 2552518771 successfully cancelled
+12/11/2025 22:30,Order 2552518770 successfully cancelled
+12/11/2025 22:30,Call to place market order to sell 100 units of symbol FX:XAUUSD 
+12/11/2025 22:28,Order 2552518771 successfully placed
+12/11/2025 22:28,Order 2552518770 successfully placed
+12/11/2025 22:28,Modify position for symbol FX:XAUUSD with SL 4261.58 and TP 4292.33
+12/11/2025 22:28,Order 2552517528 for symbol FX:XAUUSD has been executed at price 4272.29 for 100 units
+12/11/2025 22:28,Order 2552517528 successfully placed
+12/11/2025 22:28,Call to place market order to buy 100 units of symbol FX:XAUUSD 
+12/11/2025 18:36,Order 2551187131 for symbol OANDA:XAUUSD has been executed at price 4214.290 for 250 units
+12/11/2025 18:36,Order 2551187131 successfully placed
+12/11/2025 18:36,Order 2551173116 successfully cancelled
+12/11/2025 18:36,Order 2551173115 successfully cancelled
+12/11/2025 18:36,Call to place market order to buy 250 units of symbol OANDA:XAUUSD 
+12/11/2025 18:33,Order 2551173116 modification confirmed
+12/11/2025 18:33,Order 2551173115 modification confirmed
+12/11/2025 18:33,Modify position for symbol OANDA:XAUUSD with SL 4221.700 and TP 4212.100
+12/11/2025 18:32,Order 2551173116 successfully placed
+12/11/2025 18:32,Order 2551173115 successfully placed
+12/11/2025 18:32,Modify position for symbol OANDA:XAUUSD with SL 4221.862 and TP 4210.452
+12/11/2025 18:31,Order 2551170017 for symbol OANDA:XAUUSD has been executed at price 4218.500 for 250 units
+12/11/2025 18:31,Order 2551170017 successfully placed
+12/11/2025 18:31,Call to place market order to sell 250 units of symbol OANDA:XAUUSD 
+12/11/2025 18:30,Order 2551164551 for symbol OANDA:XAUUSD has been executed at price 4221.670 for 250 units
+12/11/2025 18:30,Order 2551164551 successfully placed
+12/11/2025 18:30,Call to place market order to buy 250 units of symbol OANDA:XAUUSD 
+12/11/2025 18:27,Order 2551156623 for symbol OANDA:XAUUSD has been executed at price 4219.210 for 250 units
+12/11/2025 18:27,Order 2551156623 successfully placed
+12/11/2025 18:27,Call to place market order to sell 250 units of symbol OANDA:XAUUSD 
+12/11/2025 18:05,Order 2551103343 for symbol DELTAIN:BTCUSD.P has been executed at price 90285.0 for 13 units
+12/11/2025 18:05,Order 2551103343 successfully placed
+12/11/2025 18:05,Order 2551084926 successfully cancelled
+12/11/2025 18:05,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 17:59,Order 2551084926 modification confirmed
+12/11/2025 17:59,Order 2551084925 successfully cancelled
+12/11/2025 17:59,Modify position for symbol DELTAIN:BTCUSD.P with TP 90156.8
+12/11/2025 17:59,Order 2551084926 modification confirmed
+12/11/2025 17:59,Order 2551084925 modification confirmed
+12/11/2025 17:59,Modify position for symbol DELTAIN:BTCUSD.P with SL 90472.1 and TP 90156.8
+12/11/2025 17:59,Order 2551084926 modification confirmed
+12/11/2025 17:59,Order 2551084925 modification confirmed
+12/11/2025 17:59,Modify position for symbol DELTAIN:BTCUSD.P with SL 90415.6 and TP 90156.8
+12/11/2025 17:58,Order 2551084926 successfully placed
+12/11/2025 17:58,Order 2551084925 successfully placed
+12/11/2025 17:58,Modify position for symbol DELTAIN:BTCUSD.P with SL 90340.3 and TP 90138.0
+12/11/2025 17:57,Order 2551083986 for symbol DELTAIN:BTCUSD.P has been executed at price 90280.5 for 13 units
+12/11/2025 17:57,Order 2551083986 successfully placed
+12/11/2025 17:57,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 17:55,Order 2551076898 for symbol DELTAIN:BTCUSD.P has been executed at price 90302.5 for 13 units
+12/11/2025 17:55,Order 2551076898 successfully placed
+12/11/2025 17:55,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 17:54,Order 2551076471 for symbol DELTAIN:BTCUSD.P has been executed at price 90298.5 for 26 units
+12/11/2025 17:54,Order 2551069379 successfully cancelled
+12/11/2025 17:54,Order 2551069726 successfully cancelled
+12/11/2025 17:54,Order 2551076471 successfully placed
+12/11/2025 17:54,Call to place market order to sell 26 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 17:52,Order 2551069379 modification confirmed
+12/11/2025 17:52,Order 2551069726 successfully placed
+12/11/2025 17:52,Modify position for symbol DELTAIN:BTCUSD.P with SL 90210.4 and TP 90339.1
+12/11/2025 17:52,Order 2551069379 successfully placed
+12/11/2025 17:52,Modify position for symbol DELTAIN:BTCUSD.P with TP 90339.1
+12/11/2025 17:51,Order 2551068647 for symbol DELTAIN:BTCUSD.P has been executed at price 90257.5 for 13 units
+12/11/2025 17:51,Order 2551068647 successfully placed
+12/11/2025 17:51,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 17:51,Order 2551040069 for symbol DELTAIN:BTCUSD.P has been executed at price 90248.5 for 13 units
+12/11/2025 17:51,Order 2551040070 successfully cancelled
+12/11/2025 17:43,Order 2551040070 modification confirmed
+12/11/2025 17:43,Order 2551040069 modification confirmed
+12/11/2025 17:43,Modify position for symbol DELTAIN:BTCUSD.P with SL 90245.4 and TP 90004.4
+12/11/2025 17:40,Order 2551040070 successfully placed
+12/11/2025 17:40,Order 2551040069 successfully placed
+12/11/2025 17:40,Modify position for symbol DELTAIN:BTCUSD.P with SL 90211.7 and TP 90004.4
+12/11/2025 17:39,Order 2551039062 for symbol DELTAIN:BTCUSD.P has been executed at price 90142.0 for 13 units
+12/11/2025 17:39,Order 2551039062 successfully placed
+12/11/2025 17:39,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 8:15,Order 2549941850 for symbol DELTAIN:BTCUSD.P has been executed at price 89967.0 for 13 units
+12/11/2025 8:12,Order 2549941850 modification confirmed
+12/11/2025 8:12,Modify position for symbol DELTAIN:BTCUSD.P with TP 89972.0
+12/11/2025 8:11,Order 2549941850 modification confirmed
+12/11/2025 8:11,Modify position for symbol DELTAIN:BTCUSD.P with TP 89933.5
+12/11/2025 8:07,Order 2549941850 modification confirmed
+12/11/2025 8:07,Modify position for symbol DELTAIN:BTCUSD.P with TP 89856.5
+12/11/2025 8:01,Order 2549941850 successfully placed
+12/11/2025 8:01,Modify position for symbol DELTAIN:BTCUSD.P with TP 89779.7
+12/11/2025 8:01,Order 2549940782 for symbol DELTAIN:BTCUSD.P has been executed at price 89933.5 for 13 units
+12/11/2025 8:01,Order 2549940782 successfully placed
+12/11/2025 8:01,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 7:54,Order 2549923372 for symbol DELTAIN:BTCUSD.P has been executed at price 90183.0 for 13 units
+12/11/2025 7:53,Order 2549923372 successfully placed
+12/11/2025 7:53,Modify position for symbol DELTAIN:BTCUSD.P with TP 90184.6
+12/11/2025 7:52,Order 2549921670 for symbol DELTAIN:BTCUSD.P has been executed at price 90261.5 for 13 units
+12/11/2025 7:52,Order 2549921670 successfully placed
+12/11/2025 7:52,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 7:48,Order 2549913223 for symbol DELTAIN:BTCUSD.P has been executed at price 90019.5 for 13 units
+12/11/2025 7:48,Order 2549913223 successfully placed
+12/11/2025 7:48,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 7:48,Order 2549913027 for symbol DELTAIN:BTCUSD.P has been executed at price 90020.5 for 13 units
+12/11/2025 7:48,Order 2549913027 successfully placed
+12/11/2025 7:48,Call to place limit order to sell 13 units of symbol DELTAIN:BTCUSD.P at price 90000.00 
+12/11/2025 7:43,Order 2549902940 for symbol DELTAIN:BTCUSD.P has been executed at price 90189.5 for 13 units
+12/11/2025 7:43,Order 2549902940 successfully placed
+12/11/2025 7:43,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 7:43,Order 2549901416 for symbol DELTAIN:BTCUSD.P has been executed at price 90292.0 for 13 units
+12/11/2025 7:43,Order 2549901416 successfully placed
+12/11/2025 7:43,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 7:39,Order 2549893200 for symbol DELTAIN:BTCUSD.P has been executed at price 90245.0 for 13 units
+12/11/2025 7:39,Order 2549893200 successfully placed
+12/11/2025 7:39,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 7:39,Order 2549892349 for symbol DELTAIN:BTCUSD.P has been executed at price 90358.0 for 13 units
+12/11/2025 7:39,Order 2549892349 successfully placed
+12/11/2025 7:39,Call to place market order to sell 13 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 6:11,Order 2549727153 for symbol DELTAIN:BTCUSD.P has been executed at price 91344.0 for 12 units
+12/11/2025 6:11,Order 2549727153 successfully placed
+12/11/2025 6:11,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 6:04,Order 2549714034 for symbol DELTAIN:BTCUSD.P has been executed at price 91483.5 for 12 units
+12/11/2025 6:04,Order 2549714034 successfully placed
+12/11/2025 6:04,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 6:02,Order 2549710438 for symbol DELTAIN:BTCUSD.P has been executed at price 91654.5 for 12 units
+12/11/2025 6:02,Order 2549710438 successfully placed
+12/11/2025 6:02,Order 2549706714 successfully cancelled
+12/11/2025 6:02,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 6:00,Order 2549706714 successfully placed
+12/11/2025 6:00,Modify position for symbol DELTAIN:BTCUSD.P with TP 91636.2
+12/11/2025 5:59,Order 2549704992 for symbol DELTAIN:BTCUSD.P has been executed at price 91739.5 for 12 units
+12/11/2025 5:59,Order 2549704992 successfully placed
+12/11/2025 5:59,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 2:24,Order 2549131944 for symbol DELTAIN:BTCUSD.P has been executed at price 92472.0 for 12 units
+12/11/2025 1:17,Order 2549131944 successfully placed
+12/11/2025 1:17,Modify position for symbol DELTAIN:BTCUSD.P with TP 92486.0
+12/11/2025 1:12,Order 2549103894 for symbol DELTAIN:BTCUSD.P has been executed at price 92486.0 for 12 units
+12/11/2025 1:12,Order 2549103894 successfully placed
+12/11/2025 1:12,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 1:12,Order 2549097888 for symbol DELTAIN:BTCUSD.P has been executed at price 92519.0 for 12 units
+12/11/2025 1:12,Order 2549097888 successfully placed
+12/11/2025 1:12,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 1:06,Order 2549060925 for symbol DELTAIN:BTCUSD.P has been executed at price 92725.0 for 24 units
+12/11/2025 1:06,Order 2549060925 successfully placed
+12/11/2025 1:06,Call to place market order to sell 24 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 1:05,Order 2549050565 successfully cancelled
+12/11/2025 1:05,Modify position for symbol DELTAIN:BTCUSD.P
+12/11/2025 1:05,Order 2549050565 successfully placed
+12/11/2025 1:05,Modify position for symbol DELTAIN:BTCUSD.P with SL 92831.7
+12/11/2025 0:46,Order 2548944189 for symbol DELTAIN:BTCUSD.P has been executed at price 93040.0 for 12 units
+12/11/2025 0:46,Order 2548944189 successfully placed
+12/11/2025 0:45,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 0:41,Order 2548917807 for symbol DELTAIN:BTCUSD.P has been executed at price 92827.0 for 12 units
+12/11/2025 0:41,Order 2548917807 successfully placed
+12/11/2025 0:41,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 0:31,Order 2548844998 for symbol DELTAIN:BTCUSD.P has been executed at price 92694.0 for 12 units
+12/11/2025 0:31,Order 2548844998 successfully placed
+12/11/2025 0:31,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/11/2025 0:30,Failed to execute order 2548834407; reason: insufficient funds
+12/11/2025 0:30,Order 2548834407 successfully placed
+12/11/2025 0:30,Call to place market order to buy 13 units of symbol DELTAIN:BTCUSD.P 
+12/10/2025 20:21,Order 2547584912 for symbol DELTAIN:BTCUSD.P has been executed at price 91682.0 for 12 units
+12/10/2025 20:17,Order 2547584912 modification confirmed
+12/10/2025 20:17,Modify position for symbol DELTAIN:BTCUSD.P with TP 91730.8
+12/10/2025 20:15,Order 2547584912 successfully placed
+12/10/2025 20:15,Modify position for symbol DELTAIN:BTCUSD.P with TP 91688.6
+12/10/2025 20:14,Order 2547583037 for symbol DELTAIN:BTCUSD.P has been executed at price 91857.0 for 12 units
+12/10/2025 20:14,Order 2547583037 successfully placed
+12/10/2025 20:14,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/10/2025 20:02,Order 2547266185 for symbol DELTAIN:BTCUSD.P has been executed at price 91999.0 for 12 units
+12/10/2025 20:02,Order 2547232872 successfully cancelled
+12/10/2025 19:56,Order 2547232872 modification confirmed
+12/10/2025 19:56,Order 2547266185 modification confirmed
+12/10/2025 19:56,Modify position for symbol DELTAIN:BTCUSD.P with SL 91988.2 and TP 91754.4
+12/10/2025 19:56,Order 2547232872 modification confirmed
+12/10/2025 19:56,Order 2547266185 modification confirmed
+12/10/2025 19:56,Modify position for symbol DELTAIN:BTCUSD.P with SL 91988.2 and TP 91427.6
+12/10/2025 19:14,Order 2547232872 modification confirmed
+12/10/2025 19:14,Order 2547266185 successfully placed
+12/10/2025 19:14,Modify position for symbol DELTAIN:BTCUSD.P with SL 92188.5 and TP 91427.6
+12/10/2025 19:03,Order 2547232872 successfully placed
+12/10/2025 19:03,Modify position for symbol DELTAIN:BTCUSD.P with TP 91762.9
+12/10/2025 19:03,Order 2547230930 for symbol DELTAIN:BTCUSD.P has been executed at price 91929.0 for 12 units
+12/10/2025 19:03,Order 2547230930 successfully placed
+12/10/2025 19:03,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/10/2025 18:59,Order 2547216877 for symbol DELTAIN:BTCUSD.P has been executed at price 92077.5 for 12 units
+12/10/2025 18:59,Order 2547216877 successfully placed
+12/10/2025 18:59,Order 2547205054 successfully cancelled
+12/10/2025 18:59,Order 2547205053 successfully cancelled
+12/10/2025 18:59,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/10/2025 18:56,Order 2547205054 successfully placed
+12/10/2025 18:56,Order 2547205053 successfully placed
+12/10/2025 18:56,Modify position for symbol DELTAIN:BTCUSD.P with SL 92015.1 and TP 92515.1
+12/10/2025 18:55,Order 2547202285 for symbol DELTAIN:BTCUSD.P has been executed at price 92182.5 for 12 units
+12/10/2025 18:55,Order 2547202285 successfully placed
+12/10/2025 18:55,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/10/2025 15:35,Order 2546719255 for symbol DELTAIN:BTCUSD.P has been executed at price 93024.5 for 12 units
+12/10/2025 15:35,Order 2546719255 successfully placed
+12/10/2025 15:35,Order 2546695416 successfully cancelled
+12/10/2025 15:35,Order 2546695415 successfully cancelled
+12/10/2025 15:35,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/10/2025 15:34,Order 2546695416 modification confirmed
+12/10/2025 15:34,Order 2546695415 modification confirmed
+12/10/2025 15:34,Modify position for symbol DELTAIN:BTCUSD.P with SL 92889.8 and TP 93216.0
+12/10/2025 15:25,Order 2546695416 modification confirmed
+12/10/2025 15:25,Order 2546695415 modification confirmed
+12/10/2025 15:25,Modify position for symbol DELTAIN:BTCUSD.P with SL 92588.7 and TP 93216.0
+12/10/2025 15:25,Order 2546695416 successfully placed
+12/10/2025 15:25,Order 2546695415 successfully placed
+12/10/2025 15:25,Modify position for symbol DELTAIN:BTCUSD.P with SL 92583.8 and TP 93216.0
+12/10/2025 15:24,Order 2546694514 for symbol DELTAIN:BTCUSD.P has been executed at price 92799.5 for 12 units
+12/10/2025 15:24,Order 2546694514 successfully placed
+12/10/2025 15:24,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/9/2025 21:15,Order 2538944114 for symbol DELTAIN:BTCUSD.P has been executed at price 92103.5 for 12 units
+12/8/2025 20:06,Order 2538944114 modification confirmed
+12/8/2025 20:06,Modify position for symbol DELTAIN:BTCUSD.P with TP 92102.2
+12/8/2025 16:14,Order 2538944114 successfully placed
+12/8/2025 16:14,Modify position for symbol DELTAIN:BTCUSD.P with TP 92397.1
+12/8/2025 16:13,Order 2538942302 for symbol DELTAIN:BTCUSD.P has been executed at price 92145.5 for 12 units
+12/8/2025 16:13,Order 2538942302 successfully placed
+12/8/2025 16:13,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/8/2025 16:13,Order 2538941360 for symbol DELTAIN:BTCUSD.P has been executed at price 92146.0 for 12 units
+12/8/2025 16:13,Order 2538941360 successfully placed
+12/8/2025 16:13,Order 2538938803 successfully cancelled
+12/8/2025 16:13,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/8/2025 16:12,Order 2538938803 successfully placed
+12/8/2025 16:12,Modify position for symbol DELTAIN:BTCUSD.P with TP 92222.4
+12/8/2025 16:11,Order 2538938432 for symbol DELTAIN:BTCUSD.P has been executed at price 92137.5 for 12 units
+12/8/2025 16:11,Order 2538938432 successfully placed
+12/8/2025 16:11,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/8/2025 14:07,Order 2538630863 for symbol DELTAIN:BTCUSD.P has been executed at price 91712.0 for 12 units
+12/8/2025 13:45,Order 2538630863 successfully placed
+12/8/2025 13:45,Modify position for symbol DELTAIN:BTCUSD.P with TP 91705.3
+12/8/2025 13:45,Order 2538629893 for symbol DELTAIN:BTCUSD.P has been executed at price 91620.5 for 12 units
+12/8/2025 13:45,Order 2538629893 successfully placed
+12/8/2025 13:45,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/8/2025 3:49,Order 2537651051 for symbol DELTAIN:BTCUSD.P has been executed at price 89218.0 for 12 units
+12/8/2025 3:48,Order 2537651051 successfully placed
+12/8/2025 3:48,Modify position for symbol DELTAIN:BTCUSD.P with TP 89226.7
+12/8/2025 3:46,Order 2537648556 for symbol DELTAIN:BTCUSD.P has been executed at price 89185.0 for 12 units
+12/8/2025 3:46,Order 2537648556 successfully placed
+12/8/2025 3:46,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/8/2025 3:07,Order 2537588977 for symbol DELTAIN:BTCUSD.P has been executed at price 90671.5 for 12 units
+12/8/2025 3:01,Order 2537588977 successfully placed
+12/8/2025 3:01,Modify position for symbol DELTAIN:BTCUSD.P with TP 90688.0
+12/8/2025 3:00,Order 2537588785 for symbol DELTAIN:BTCUSD.P has been executed at price 90855.5 for 12 units
+12/8/2025 3:00,Order 2537588785 successfully placed
+12/8/2025 3:00,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/7/2025 18:52,Order 2536622449 for symbol DELTAIN:BTCUSD.P has been executed at price 88999.0 for 12 units
+12/7/2025 15:43,Order 2536626394 for symbol BITSTAMP:ETHUSD has been executed at price 3037.4 for 2 units
+12/7/2025 15:33,Order 2536626394 successfully placed
+12/7/2025 15:33,Modify position for symbol BITSTAMP:ETHUSD with TP 3037.4
+12/7/2025 15:32,Order 2536625790 for symbol BITSTAMP:ETHUSD has been executed at price 3032.4 for 2 units
+12/7/2025 15:32,Order 2536625790 successfully placed
+12/7/2025 15:32,Call to place market order to buy 2 units of symbol BITSTAMP:ETHUSD 
+12/7/2025 15:32,Failed to execute order 2536625479; reason: insufficient funds
+12/7/2025 15:32,Order 2536625479 successfully placed
+12/7/2025 15:32,Call to place market order to buy 2 units of symbol BITSTAMP:ETHUSD 
+12/7/2025 15:29,Order 2536622449 successfully placed
+12/7/2025 15:29,Modify position for symbol DELTAIN:BTCUSD.P with TP 89000.0
+12/7/2025 15:29,Order 2536622146 for symbol DELTAIN:BTCUSD.P has been executed at price 89078.5 for 12 units
+12/7/2025 15:29,Order 2536622146 successfully placed
+12/7/2025 15:29,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/7/2025 14:54,Order 2536581762 for symbol DELTAIN:BTCUSD.P has been executed at price 89089.0 for 11 units
+12/7/2025 14:54,Order 2536581762 successfully placed
+12/7/2025 14:54,Order 2534086205 successfully cancelled
+12/7/2025 14:54,Order 2534088077 successfully cancelled
+12/7/2025 14:54,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/7/2025 13:52,Order 2534086205 modification confirmed
+12/7/2025 13:52,Order 2534088077 modification confirmed
+12/7/2025 13:52,Modify position for symbol DELTAIN:BTCUSD.P with SL 89805.1 and TP 88170.6
+12/7/2025 13:46,Order 2534086205 modification confirmed
+12/7/2025 13:46,Order 2534088077 modification confirmed
+12/7/2025 13:46,Modify position for symbol DELTAIN:BTCUSD.P with SL 89672.3 and TP 88618.9
+12/5/2025 23:52,Order 2534086205 modification confirmed
+12/5/2025 23:52,Order 2534088077 successfully placed
+12/5/2025 23:52,Modify position for symbol DELTAIN:BTCUSD.P with SL 90378.8 and TP 87085.6
+12/5/2025 23:52,Order 2534086205 successfully placed
+12/5/2025 23:52,Modify position for symbol DELTAIN:BTCUSD.P with TP 88245.5
+12/5/2025 23:52,Order 2534085019 for symbol DELTAIN:BTCUSD.P has been executed at price 89260.5 for 11 units
+12/5/2025 23:52,Order 2534085019 successfully placed
+12/5/2025 23:52,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 23:51,Failed to execute order 2534084677; reason: insufficient funds
+12/5/2025 23:51,Order 2534084677 successfully placed
+12/5/2025 23:51,Call to place market order to sell 12 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 23:50,Order 2534043242 for symbol DELTAIN:BTCUSD.P has been executed at price 89357.5 for 11 units
+12/5/2025 23:50,Order 2534042044 successfully cancelled
+12/5/2025 23:45,Order 2534042044 modification confirmed
+12/5/2025 23:45,Order 2534043242 modification confirmed
+12/5/2025 23:45,Modify position for symbol DELTAIN:BTCUSD.P with SL 89382.9 and TP 89792.2
+12/5/2025 23:45,Order 2534042044 modification confirmed
+12/5/2025 23:45,Order 2534043242 modification confirmed
+12/5/2025 23:45,Modify position for symbol DELTAIN:BTCUSD.P with SL 89348.8 and TP 89792.2
+12/5/2025 23:45,Order 2534042044 modification confirmed
+12/5/2025 23:45,Order 2534043242 modification confirmed
+12/5/2025 23:45,Modify position for symbol DELTAIN:BTCUSD.P with SL 89374.4 and TP 89792.2
+12/5/2025 23:38,Order 2534042044 modification confirmed
+12/5/2025 23:38,Order 2534043242 successfully placed
+12/5/2025 23:38,Modify position for symbol DELTAIN:BTCUSD.P with SL 89374.4 and TP 90157.0
+12/5/2025 23:38,Order 2534042044 successfully placed
+12/5/2025 23:38,Modify position for symbol DELTAIN:BTCUSD.P with TP 90157.0
+12/5/2025 23:38,Order 2534040428 for symbol DELTAIN:BTCUSD.P has been executed at price 89696.0 for 11 units
+12/5/2025 23:38,Order 2534040428 successfully placed
+12/5/2025 23:38,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 13:37,Order 2531959022 for symbol DELTAIN:BTCUSD.P has been executed at price 92030.5 for 11 units
+12/5/2025 13:37,Order 2531962355 successfully cancelled
+12/5/2025 13:29,Order 2531959022 modification confirmed
+12/5/2025 13:29,Order 2531962355 successfully placed
+12/5/2025 13:29,Modify position for symbol DELTAIN:BTCUSD.P with SL 92257.8 and TP 92031.3
+12/5/2025 13:27,Order 2531959022 successfully placed
+12/5/2025 13:27,Modify position for symbol DELTAIN:BTCUSD.P with TP 92087.6
+12/5/2025 13:27,Order 2531958496 for symbol DELTAIN:BTCUSD.P has been executed at price 92178.5 for 11 units
+12/5/2025 13:27,Order 2531958496 successfully placed
+12/5/2025 13:27,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 3:22,Order 2531081179 for symbol DELTAIN:BTCUSD.P has been executed at price 92197.5 for 11 units
+12/5/2025 3:22,Order 2531081413 successfully cancelled
+12/5/2025 3:21,Order 2531081413 successfully placed
+12/5/2025 3:21,Order 2531081179 modification confirmed
+12/5/2025 3:21,Modify position for symbol DELTAIN:BTCUSD.P with SL 92191.2 and TP 91966.9
+12/5/2025 3:20,Order 2531081179 successfully placed
+12/5/2025 3:20,Modify position for symbol DELTAIN:BTCUSD.P with SL 92191.2
+12/5/2025 3:20,Order 2531081046 for symbol DELTAIN:BTCUSD.P has been executed at price 92116.5 for 11 units
+12/5/2025 3:20,Order 2531081046 successfully placed
+12/5/2025 3:20,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:44,Order 2530698720 for symbol DELTAIN:BTCUSD.P has been executed at price 91336.0 for 11 units
+12/5/2025 0:44,Order 2530698720 modification confirmed
+12/5/2025 0:44,Modify position for symbol DELTAIN:BTCUSD.P with TP 91340.4
+12/5/2025 0:43,Order 2530698720 successfully placed
+12/5/2025 0:43,Modify position for symbol DELTAIN:BTCUSD.P with TP 91326.6
+12/5/2025 0:43,Order 2530698205 for symbol DELTAIN:BTCUSD.P has been executed at price 91431.0 for 11 units
+12/5/2025 0:43,Order 2530698205 successfully placed
+12/5/2025 0:43,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:43,Order 2530697273 for symbol DELTAIN:BTCUSD.P has been executed at price 91473.0 for 11 units
+12/5/2025 0:43,Order 2530697273 successfully placed
+12/5/2025 0:43,Order 2530695795 successfully cancelled
+12/5/2025 0:43,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:43,Order 2530695795 successfully placed
+12/5/2025 0:43,Modify position for symbol DELTAIN:BTCUSD.P with TP 91292.0
+12/5/2025 0:42,Order 2530694745 for symbol DELTAIN:BTCUSD.P has been executed at price 91569.0 for 11 units
+12/5/2025 0:42,Order 2530694745 successfully placed
+12/5/2025 0:42,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:37,Order 2530678292 for symbol DELTAIN:BTCUSD.P has been executed at price 91940.0 for 11 units
+12/5/2025 0:37,Order 2530678292 successfully placed
+12/5/2025 0:37,Order 2530607837 successfully cancelled
+12/5/2025 0:37,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:35,Order 2530607837 modification confirmed
+12/5/2025 0:35,Modify position for symbol DELTAIN:BTCUSD.P with TP 91831.2
+12/5/2025 0:12,Order 2530607837 successfully placed
+12/5/2025 0:12,Modify position for symbol DELTAIN:BTCUSD.P with TP 91685.9
+12/5/2025 0:12,Order 2530606165 for symbol DELTAIN:BTCUSD.P has been executed at price 92057.5 for 11 units
+12/5/2025 0:12,Order 2530606165 successfully placed
+12/5/2025 0:12,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:12,Order 2530605408 for symbol DELTAIN:BTCUSD.P has been executed at price 92045.5 for 9 units
+12/5/2025 0:12,Order 2530605408 successfully placed
+12/5/2025 0:12,Call to place market order to sell 9 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:11,Order 2530604766 for symbol DELTAIN:BTCUSD.P has been executed at price 92015.0 for 10 units
+12/5/2025 0:11,Order 2530604766 successfully placed
+12/5/2025 0:11,Call to place market order to buy 10 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:11,Order 2530602122 for symbol DELTAIN:BTCUSD.P has been executed at price 92032.5 for 1 units
+12/5/2025 0:11,Order 2530602122 successfully placed
+12/5/2025 0:11,Call to place market order to sell 1 units of symbol DELTAIN:BTCUSD.P 
+12/5/2025 0:10,Order 2530598608 for symbol DELTAIN:BTCUSD.P has been executed at price 92225.0 for 11 units
+12/5/2025 0:10,Order 2530598608 successfully placed
+12/5/2025 0:10,Order 2530558087 successfully cancelled
+12/5/2025 0:10,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/4/2025 23:58,Failed to execute order 2530561072; reason: insufficient funds
+12/4/2025 23:58,Order 2530561072 successfully placed
+12/4/2025 23:58,Call to place market order to buy 1 units of symbol DELTAIN:BTCUSD.P 
+12/4/2025 23:57,Order 2530558087 successfully placed
+12/4/2025 23:57,Modify position for symbol DELTAIN:BTCUSD.P with TP 92613.1
+12/4/2025 23:55,Order 2530553078 for symbol DELTAIN:BTCUSD.P has been executed at price 92428.0 for 11 units
+12/4/2025 23:55,Order 2530553078 successfully placed
+12/4/2025 23:55,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/4/2025 19:57,Order 2528968403 for symbol DELTAIN:BTCUSD.P has been executed at price 92733.5 for 11 units
+12/4/2025 19:57,Order 2528968404 successfully cancelled
+12/4/2025 19:28,Order 2528968404 modification confirmed
+12/4/2025 19:28,Order 2528968403 modification confirmed
+12/4/2025 19:28,Modify position for symbol DELTAIN:BTCUSD.P with SL 92728.4 and TP 92166.3
+12/4/2025 19:22,Order 2528968404 modification confirmed
+12/4/2025 19:22,Order 2528968403 modification confirmed
+12/4/2025 19:22,Modify position for symbol DELTAIN:BTCUSD.P with SL 92728.4 and TP 91897.2
+12/4/2025 19:22,Order 2528968404 modification confirmed
+12/4/2025 19:22,Order 2528968403 modification confirmed
+12/4/2025 19:22,Modify position for symbol DELTAIN:BTCUSD.P with SL 92790.0 and TP 91897.2
+12/4/2025 18:54,Order 2528968404 modification confirmed
+12/4/2025 18:54,Order 2528968403 modification confirmed
+12/4/2025 18:54,Modify position for symbol DELTAIN:BTCUSD.P with SL 92952.3 and TP 91897.2
+12/4/2025 18:53,Order 2528968404 modification confirmed
+12/4/2025 18:53,Order 2528968403 modification confirmed
+12/4/2025 18:53,Modify position for symbol DELTAIN:BTCUSD.P with SL 92960.3 and TP 91897.2
+12/4/2025 18:43,Order 2528968404 successfully placed
+12/4/2025 18:43,Order 2528968403 successfully placed
+12/4/2025 18:43,Modify position for symbol DELTAIN:BTCUSD.P with SL 92960.3 and TP 91807.8
+12/4/2025 18:42,Order 2528966786 for symbol DELTAIN:BTCUSD.P has been executed at price 92625.0 for 11 units
+12/4/2025 18:42,Order 2528966786 successfully placed
+12/4/2025 18:42,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/4/2025 18:18,Order 2528893831 for symbol OANDA:XAUUSD has been executed at price 4190.610 for 250 units
+12/4/2025 18:18,Order 2528893831 successfully placed
+12/4/2025 18:18,Order 2528888678 successfully cancelled
+12/4/2025 18:18,Order 2528888677 successfully cancelled
+12/4/2025 18:18,Call to place market order to sell 250 units of symbol OANDA:XAUUSD 
+12/4/2025 18:16,Order 2528888678 successfully placed
+12/4/2025 18:16,Order 2528888677 successfully placed
+12/4/2025 18:16,Modify position for symbol OANDA:XAUUSD with SL 4190.886 and TP 4200.930
+12/4/2025 18:15,Order 2528887679 for symbol OANDA:XAUUSD has been executed at price 4193.790 for 250 units
+12/4/2025 18:15,Order 2528887679 successfully placed
+12/4/2025 18:15,Call to place market order to buy 250 units of symbol OANDA:XAUUSD 
+12/4/2025 18:03,Order 2528830088 for symbol DELTAIN:BTCUSD.P has been executed at price 92869.5 for 11 units
+12/4/2025 18:03,Order 2528830089 successfully cancelled
+12/4/2025 18:01,Order 2528830089 modification confirmed
+12/4/2025 18:01,Order 2528830088 modification confirmed
+12/4/2025 18:01,Modify position for symbol DELTAIN:BTCUSD.P with SL 92858.3 and TP 92720.7
+12/4/2025 18:01,Order 2528830089 modification confirmed
+12/4/2025 18:01,Order 2528830088 modification confirmed
+12/4/2025 18:01,Modify position for symbol DELTAIN:BTCUSD.P with SL 92911.5 and TP 92720.7
+12/4/2025 17:52,Order 2528830089 successfully placed
+12/4/2025 17:52,Order 2528830088 successfully placed
+12/4/2025 17:52,Modify position for symbol DELTAIN:BTCUSD.P with SL 92911.5 and TP 92539.2
+12/4/2025 17:52,Order 2528829012 for symbol DELTAIN:BTCUSD.P has been executed at price 92767.5 for 11 units
+12/4/2025 17:52,Order 2528829012 successfully placed
+12/4/2025 17:52,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/4/2025 16:56,Order 2528705540 for symbol DELTAIN:BTCUSD.P has been executed at price 93033.0 for 11 units
+12/4/2025 16:56,Order 2528705540 successfully placed
+12/4/2025 16:56,Order 2528685331 successfully cancelled
+12/4/2025 16:56,Order 2528685330 successfully cancelled
+12/4/2025 16:56,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/4/2025 16:54,Order 2528685331 modification confirmed
+12/4/2025 16:54,Order 2528685330 modification confirmed
+12/4/2025 16:54,Modify position for symbol DELTAIN:BTCUSD.P with SL 93308.9 and TP 92981.7
+12/4/2025 16:45,Order 2528685331 successfully placed
+12/4/2025 16:45,Order 2528685330 successfully placed
+12/4/2025 16:45,Modify position for symbol DELTAIN:BTCUSD.P with SL 93374.2 and TP 92981.7
+12/4/2025 16:45,Order 2528684673 for symbol DELTAIN:BTCUSD.P has been executed at price 93200.5 for 11 units
+12/4/2025 16:45,Order 2528684673 successfully placed
+12/4/2025 16:45,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/4/2025 4:08,Order 2527392412 for symbol FX:USDJPY has been executed at price 155.213 for 1000000 units
+12/4/2025 4:08,Order 2527392413 successfully cancelled
+12/4/2025 4:08,Order 2527392413 successfully placed
+12/4/2025 4:08,Order 2527392412 successfully placed
+12/4/2025 4:08,Modify position for symbol FX:USDJPY with SL 155.212 and TP 155.032
+12/4/2025 4:07,Order 2527391784 for symbol FX:USDJPY has been executed at price 155.175 for 1000000 units
+12/4/2025 4:07,Order 2527391784 successfully placed
+12/4/2025 4:07,Call to place market order to sell 1000000 units of symbol FX:USDJPY 
+12/4/2025 4:07,Order 2527390097 for symbol FX:USDJPY has been executed at price 155.209 for 1090000 units
+12/4/2025 4:07,Order 2527389668 successfully cancelled
+12/4/2025 4:06,Order 2527390978 for symbol FX:USDJPY has been executed at price 155.174 for 90000 units
+12/4/2025 4:06,Order 2527390978 successfully placed
+12/4/2025 4:06,Call to place market order to sell 90000 units of symbol FX:USDJPY 
+12/4/2025 4:05,Order 2527389668 modification confirmed
+12/4/2025 4:05,Order 2527390097 successfully placed
+12/4/2025 4:05,Modify position for symbol FX:USDJPY with SL 155.209 and TP 155.032
+12/4/2025 4:05,Order 2527389668 successfully placed
+12/4/2025 4:05,Modify position for symbol FX:USDJPY with TP 155.037
+12/4/2025 4:05,Order 2527389570 for symbol FX:USDJPY has been executed at price 155.170 for 1000000 units
+12/4/2025 4:05,Order 2527389570 successfully placed
+12/4/2025 4:05,Call to place market order to sell 1000000 units of symbol FX:USDJPY 
+12/4/2025 3:26,Order 2524514568 for symbol DELTAIN:BTCUSD.P has been executed at price 93488.5 for 11 units
+12/3/2025 22:46,Order 2524514568 modification confirmed
+12/3/2025 22:46,Modify position for symbol DELTAIN:BTCUSD.P with TP 93486.5
+12/3/2025 22:20,Order 2524514568 modification confirmed
+12/3/2025 22:20,Modify position for symbol DELTAIN:BTCUSD.P with TP 93436.6
+12/3/2025 12:41,Order 2524514568 successfully placed
+12/3/2025 12:41,Modify position for symbol DELTAIN:BTCUSD.P with TP 93887.8
+12/3/2025 11:13,Order 2524345298 for symbol DELTAIN:BTCUSD.P has been executed at price 93432.0 for 11 units
+12/3/2025 11:13,Order 2524345298 successfully placed
+12/3/2025 11:13,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/3/2025 3:31,Order 2523558392 for symbol DELTAIN:BTCUSD.P has been executed at price 91625.0 for 11 units
+12/3/2025 3:31,Order 2523588111 successfully cancelled
+12/3/2025 3:24,Order 2523558392 modification confirmed
+12/3/2025 3:24,Order 2523588111 successfully placed
+12/3/2025 3:24,Modify position for symbol DELTAIN:BTCUSD.P with SL 91351.9 and TP 91622.7
+12/3/2025 2:59,Order 2523558392 successfully placed
+12/3/2025 2:59,Modify position for symbol DELTAIN:BTCUSD.P with TP 91622.7
+12/3/2025 2:59,Order 2523557595 for symbol DELTAIN:BTCUSD.P has been executed at price 91395.5 for 11 units
+12/3/2025 2:59,Order 2523557595 successfully placed
+12/3/2025 2:59,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/3/2025 1:48,Order 2523390755 for symbol DELTAIN:BTCUSD.P has been executed at price 91203.0 for 11 units
+12/3/2025 1:43,Order 2523390755 successfully placed
+12/3/2025 1:43,Modify position for symbol DELTAIN:BTCUSD.P with TP 91213.4
+12/3/2025 1:43,Order 2523390281 for symbol DELTAIN:BTCUSD.P has been executed at price 91581.0 for 22 units
+12/3/2025 1:43,Order 2523286810 successfully cancelled
+12/3/2025 1:43,Order 2523390281 successfully placed
+12/3/2025 1:43,Call to place market order to sell 22 units of symbol DELTAIN:BTCUSD.P 
+12/3/2025 1:17,Order 2523286810 modification confirmed
+12/3/2025 1:17,Order 2523287619 successfully cancelled
+12/3/2025 1:17,Modify position for symbol DELTAIN:BTCUSD.P with TP 92320.4
+12/3/2025 1:07,Order 2523286810 modification confirmed
+12/3/2025 1:07,Order 2523287619 successfully placed
+12/3/2025 1:07,Modify position for symbol DELTAIN:BTCUSD.P with SL 91969.0 and TP 92320.4
+12/3/2025 1:07,Order 2523286810 successfully placed
+12/3/2025 1:07,Modify position for symbol DELTAIN:BTCUSD.P with TP 92320.4
+12/3/2025 1:06,Order 2523286121 for symbol DELTAIN:BTCUSD.P has been executed at price 92138.0 for 11 units
+12/3/2025 1:06,Order 2523286121 successfully placed
+12/3/2025 1:06,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/3/2025 0:49,Order 2523233457 for symbol DELTAIN:BTCUSD.P has been executed at price 91973.5 for 11 units
+12/3/2025 0:49,Order 2523233457 successfully placed
+12/3/2025 0:49,Order 2523196350 successfully cancelled
+12/3/2025 0:49,Order 2523196349 successfully cancelled
+12/3/2025 0:49,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/3/2025 0:40,Order 2523196350 modification confirmed
+12/3/2025 0:40,Order 2523196349 modification confirmed
+12/3/2025 0:40,Modify position for symbol DELTAIN:BTCUSD.P with SL 91934.1 and TP 92203.6
+12/3/2025 0:37,Order 2523196350 successfully placed
+12/3/2025 0:37,Order 2523196349 successfully placed
+12/3/2025 0:37,Modify position for symbol DELTAIN:BTCUSD.P with SL 91934.1 and TP 92338.3
+12/3/2025 0:36,Order 2523193801 for symbol DELTAIN:BTCUSD.P has been executed at price 92066.5 for 11 units
+12/3/2025 0:36,Order 2523193801 successfully placed
+12/3/2025 0:36,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/3/2025 0:07,Order 2522967124 for symbol BLACKBULL:US30 has been executed at price 47319.00 for 22 units
+12/3/2025 0:07,Order 2522967123 successfully cancelled
+12/3/2025 0:06,Order 2523091576 for symbol FX:XAUUSD has been executed at price 4185.37 for 10 units
+12/3/2025 0:06,Order 2523091576 successfully placed
+12/3/2025 0:06,Call to place market order to buy 10 units of symbol FX:XAUUSD 
+12/3/2025 0:01,Order 2523075634 for symbol FX:XAUUSD has been executed at price 4190.56 for 10 units
+12/3/2025 0:01,Order 2523075634 successfully placed
+12/3/2025 0:01,Call to place market order to sell 10 units of symbol FX:XAUUSD 
+12/2/2025 23:58,Order 2522967124 modification confirmed
+12/2/2025 23:58,Order 2522967123 modification confirmed
+12/2/2025 23:58,Modify position for symbol BLACKBULL:US30 with SL 47429.05 and TP 47319.66
+12/2/2025 23:47,Order 2522967124 modification confirmed
+12/2/2025 23:47,Order 2522967123 modification confirmed
+12/2/2025 23:47,Modify position for symbol BLACKBULL:US30 with SL 47429.05 and TP 47300.91
+12/2/2025 23:37,Order 2522967124 modification confirmed
+12/2/2025 23:37,Order 2522967123 modification confirmed
+12/2/2025 23:37,Modify position for symbol BLACKBULL:US30 with SL 47441.41 and TP 47300.91
+12/2/2025 23:35,Order 2522979805 for symbol BLACKBULL:US30 has been executed at price 47388.00 for 21 units
+12/2/2025 23:35,Order 2522979805 successfully placed
+12/2/2025 23:35,Call to place market order to sell 21 units of symbol BLACKBULL:US30 
+12/2/2025 23:34,Order 2522976956 for symbol DELTAIN:BTCUSD.P has been executed at price 91609.0 for 11 units
+12/2/2025 23:34,Order 2522976956 successfully placed
+12/2/2025 23:34,Call to place market order to sell 11 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 23:33,Order 2522967124 modification confirmed
+12/2/2025 23:33,Order 2522967123 modification confirmed
+12/2/2025 23:33,Modify position for symbol BLACKBULL:US30 with SL 47441.41 and TP 47313.64
+12/2/2025 23:32,Order 2522967124 successfully placed
+12/2/2025 23:32,Order 2522967123 successfully placed
+12/2/2025 23:32,Modify position for symbol BLACKBULL:US30 with SL 47441.41 and TP 47321.71
+12/2/2025 23:31,Order 2522965903 for symbol BLACKBULL:US30 has been executed at price 47402.00 for 1 units
+12/2/2025 23:31,Order 2522965903 successfully placed
+12/2/2025 23:31,Call to place market order to sell 1 units of symbol BLACKBULL:US30 
+12/2/2025 23:24,Order 2522881174 successfully cancelled
+12/2/2025 23:24,Modify position for symbol DELTAIN:BTCUSD.P
+12/2/2025 23:22,Order 2522881174 modification confirmed
+12/2/2025 23:22,Modify position for symbol DELTAIN:BTCUSD.P with TP 91603.6
+12/2/2025 23:17,Order 2522881174 modification confirmed
+12/2/2025 23:17,Modify position for symbol DELTAIN:BTCUSD.P with TP 91785.4
+12/2/2025 23:09,Order 2522881174 successfully placed
+12/2/2025 23:09,Modify position for symbol DELTAIN:BTCUSD.P with TP 92060.4
+12/2/2025 23:09,Order 2522879737 for symbol DELTAIN:BTCUSD.P has been executed at price 91694.5 for 11 units
+12/2/2025 23:09,Order 2522879737 successfully placed
+12/2/2025 23:09,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 19:25,Order 2521449095 for symbol DELTAIN:BTCUSD.P has been executed at price 87770.5 for 12 units
+12/2/2025 19:10,Order 2521449095 successfully placed
+12/2/2025 19:10,Modify position for symbol DELTAIN:BTCUSD.P with TP 87766.5
+12/2/2025 19:10,Order 2521448471 for symbol DELTAIN:BTCUSD.P has been executed at price 87516.5 for 12 units
+12/2/2025 19:10,Order 2521448471 successfully placed
+12/2/2025 19:10,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 19:10,Order 2521447489 for symbol FPMARKETS:GBPUSD has been executed at price 1.32017 for 799995 units
+12/2/2025 19:10,Order 2521447489 successfully placed
+12/2/2025 19:10,Order 2521435303 successfully cancelled
+12/2/2025 19:10,Order 2521439834 successfully cancelled
+12/2/2025 19:10,Call to place market order to buy 799995 units of symbol FPMARKETS:GBPUSD 
+12/2/2025 19:08,Order 2521435303 modification confirmed
+12/2/2025 19:08,Order 2521439834 modification confirmed
+12/2/2025 19:08,Modify position for symbol FPMARKETS:GBPUSD with SL 1.32075 and TP 1.31871
+12/2/2025 19:08,Order 2521435303 modification confirmed
+12/2/2025 19:08,Order 2521439834 modification confirmed
+12/2/2025 19:08,Modify position for symbol FPMARKETS:GBPUSD with SL 1.32075 and TP 1.31931
+12/2/2025 19:08,Order 2521435303 modification confirmed
+12/2/2025 19:08,Order 2521439834 modification confirmed
+12/2/2025 19:08,Modify position for symbol FPMARKETS:GBPUSD with SL 1.32047 and TP 1.31931
+12/2/2025 19:07,Order 2521435303 modification confirmed
+12/2/2025 19:07,Order 2521439834 successfully placed
+12/2/2025 19:07,Modify position for symbol FPMARKETS:GBPUSD with SL 1.32047 and TP 1.31897
+12/2/2025 19:07,Order 2521439256 for symbol FPMARKETS:GBPUSD has been executed at price 1.32012 for 200000 units
+12/2/2025 19:07,Order 2521439256 successfully placed
+12/2/2025 19:07,Call to place market order to sell 200000 units of symbol FPMARKETS:GBPUSD 
+12/2/2025 19:07,Order 2521438143 for symbol FPMARKETS:GBPUSD has been executed at price 1.32009 for 500000 units
+12/2/2025 19:07,Order 2521438143 successfully placed
+12/2/2025 19:07,Call to place market order to sell 500000 units of symbol FPMARKETS:GBPUSD 
+12/2/2025 19:06,Order 2521435303 successfully placed
+12/2/2025 19:06,Modify position for symbol FPMARKETS:GBPUSD with TP 1.31897
+12/2/2025 19:05,Order 2521433003 for symbol FPMARKETS:GBPUSD has been executed at price 1.31996 for 199990 units
+12/2/2025 19:05,Order 2521433003 successfully placed
+12/2/2025 19:05,Call to place market order to sell 199990 units of symbol FPMARKETS:GBPUSD 
+12/2/2025 19:05,Order 2521431804 for symbol FPMARKETS:GBPUSD has been executed at price 1.32009 for 99995 units
+12/2/2025 19:05,Order 2521431804 successfully placed
+12/2/2025 19:05,Call to place limit order to buy 99995 units of symbol FPMARKETS:GBPUSD at price 1.32009 
+12/2/2025 18:14,Order 2521270713 for symbol FX:XAUUSD has been executed at price 4205.84 for 250 units
+12/2/2025 18:14,Order 2521270713 successfully placed
+12/2/2025 18:14,Order 2521241507 successfully cancelled
+12/2/2025 18:14,Call to place market order to buy 250 units of symbol FX:XAUUSD 
+12/2/2025 18:08,Order 2521241507 modification confirmed
+12/2/2025 18:08,Modify position for symbol FX:XAUUSD with TP 4201.49
+12/2/2025 18:03,Order 2521241507 successfully placed
+12/2/2025 18:03,Modify position for symbol FX:XAUUSD with TP 4201.42
+12/2/2025 17:50,Order 2521208440 for symbol FX:XAUUSD has been executed at price 4201.49 for 250 units
+12/2/2025 17:50,Order 2521208440 successfully placed
+12/2/2025 17:50,Call to place market order to sell 250 units of symbol FX:XAUUSD 
+12/2/2025 17:37,Order 2521148915 for symbol DELTAIN:BTCUSD.P has been executed at price 87439.0 for 12 units
+12/2/2025 17:33,Order 2521148915 modification confirmed
+12/2/2025 17:33,Modify position for symbol DELTAIN:BTCUSD.P with TP 87429.1
+12/2/2025 17:31,Order 2521148915 modification confirmed
+12/2/2025 17:31,Modify position for symbol DELTAIN:BTCUSD.P with TP 87470.8
+12/2/2025 17:26,Order 2521148915 successfully placed
+12/2/2025 17:26,Modify position for symbol DELTAIN:BTCUSD.P with TP 87762.5
+12/2/2025 17:26,Order 2521148258 for symbol DELTAIN:BTCUSD.P has been executed at price 87512.5 for 12 units
+12/2/2025 17:26,Order 2521148258 successfully placed
+12/2/2025 17:26,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 17:24,Order 2521087336 for symbol DELTAIN:BTCUSD.P has been executed at price 87468.5 for 12 units
+12/2/2025 17:12,Order 2521087336 modification confirmed
+12/2/2025 17:12,Modify position for symbol DELTAIN:BTCUSD.P with TP 87468.2
+12/2/2025 17:00,Order 2521087336 modification confirmed
+12/2/2025 17:00,Modify position for symbol DELTAIN:BTCUSD.P with TP 87509.8
+12/2/2025 17:00,Order 2521087336 modification confirmed
+12/2/2025 17:00,Modify position for symbol DELTAIN:BTCUSD.P with TP 87507.4
+12/2/2025 16:58,Order 2521087336 successfully placed
+12/2/2025 16:58,Modify position for symbol DELTAIN:BTCUSD.P with TP 87718.2
+12/2/2025 16:58,Order 2521086656 for symbol DELTAIN:BTCUSD.P has been executed at price 87301.5 for 12 units
+12/2/2025 16:58,Order 2521086656 successfully placed
+12/2/2025 16:58,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 16:18,Order 2520994940 for symbol DELTAIN:BTCUSD.P has been executed at price 87238.5 for 11 units
+12/2/2025 16:15,Order 2520994940 successfully placed
+12/2/2025 16:15,Modify position for symbol DELTAIN:BTCUSD.P with TP 87236.6
+12/2/2025 16:15,Order 2520994036 for symbol DELTAIN:BTCUSD.P has been executed at price 87074.5 for 11 units
+12/2/2025 16:15,Order 2520994036 successfully placed
+12/2/2025 16:15,Call to place market order to buy 11 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 16:15,Failed to execute order 2520993493; reason: insufficient funds
+12/2/2025 16:15,Order 2520993493 successfully placed
+12/2/2025 16:15,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 16:15,Failed to execute order 2520993061; reason: insufficient funds
+12/2/2025 16:15,Order 2520993061 successfully placed
+12/2/2025 16:15,Call to place market order to buy 12 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 1:12,Order 2519384632 for symbol DELTAIN:BTCUSD.P has been executed at price 84788.5 for 10 units
+12/2/2025 1:10,Order 2519384632 modification confirmed
+12/2/2025 1:10,Modify position for symbol DELTAIN:BTCUSD.P with TP 84793.5
+12/2/2025 1:00,Order 2519384632 successfully placed
+12/2/2025 1:00,Modify position for symbol DELTAIN:BTCUSD.P with TP 84489.6
+12/2/2025 1:00,Order 2519382819 for symbol DELTAIN:BTCUSD.P has been executed at price 84643.5 for 10 units
+12/2/2025 1:00,Order 2519382819 successfully placed
+12/2/2025 1:00,Call to place market order to sell 10 units of symbol DELTAIN:BTCUSD.P 
+12/2/2025 0:12,Order 2519226225 for symbol DELTAIN:BTCUSD.P has been executed at price 84735.0 for 10 units
+12/2/2025 0:10,Order 2519226225 modification confirmed
+12/2/2025 0:10,Modify position for symbol DELTAIN:BTCUSD.P with TP 84736.5
+12/2/2025 0:08,Order 2519226225 successfully placed
+12/2/2025 0:08,Modify position for symbol DELTAIN:BTCUSD.P with TP 84683.8
+12/2/2025 0:08,Order 2519225883 for symbol DELTAIN:BTCUSD.P has been executed at price 84936.5 for 10 units
+12/2/2025 0:08,Order 2519225883 successfully placed
+12/2/2025 0:08,Call to place market order to sell 10 units of symbol DELTAIN:BTCUSD.P 
+12/1/2025 23:21,Order 2519081718 for symbol FX:USDJPY has been executed at price 155.371 for 1000000 units
+12/1/2025 23:21,Order 2519081718 successfully placed
+12/1/2025 23:21,Call to place market order to sell 1000000 units of symbol FX:USDJPY 
+12/1/2025 23:19,Failed to execute order 2519075699; reason: insufficient funds
+12/1/2025 23:19,Order 2519075699 successfully placed
+12/1/2025 23:19,Call to place limit order to buy 1000000 units of symbol FX:USDJPY at price 155.348 
+12/1/2025 23:19,Order 2519075221 for symbol FX:USDJPY has been executed at price 155.349 for 1000000 units
+12/1/2025 23:19,Order 2519075221 successfully placed
+12/1/2025 23:19,Call to place market order to buy 1000000 units of symbol FX:USDJPY 
+12/1/2025 20:45,Order 2518219827 for symbol DELTAIN:BTCUSD.P has been executed at price 85499.0 for 10 units
+12/1/2025 20:36,Order 2518219827 successfully placed
+12/1/2025 20:36,Modify position for symbol DELTAIN:BTCUSD.P with TP 85500.0
+12/1/2025 20:35,Order 2518216635 for symbol DELTAIN:BTCUSD.P has been executed at price 85700.0 for 10 units
+12/1/2025 20:35,Order 2518216635 successfully placed
+12/1/2025 20:35,Call to place market order to sell 10 units of symbol DELTAIN:BTCUSD.P 
+12/1/2025 18:03,Order 2517426383 for symbol DELTAIN:BTCUSD.P has been executed at price 85691.5 for 10 units
+12/1/2025 18:03,Order 2517431407 successfully cancelled
+12/1/2025 18:02,Order 2517426383 modification confirmed
+12/1/2025 18:02,Order 2517431407 modification confirmed
+12/1/2025 18:02,Modify position for symbol DELTAIN:BTCUSD.P with SL 85843.5 and TP 85693.5
+12/1/2025 18:02,Order 2517426383 modification confirmed
+12/1/2025 18:02,Order 2517431407 modification confirmed
+12/1/2025 18:02,Modify position for symbol DELTAIN:BTCUSD.P with SL 85869.4 and TP 85693.5
+12/1/2025 18:02,Order 2517426383 modification confirmed
+12/1/2025 18:02,Order 2517431407 modification confirmed
+12/1/2025 18:02,Modify position for symbol DELTAIN:BTCUSD.P with SL 86448.5 and TP 85693.5
+12/1/2025 17:53,Order 2517426383 modification confirmed
+12/1/2025 17:53,Order 2517431407 modification confirmed
+12/1/2025 17:53,Modify position for symbol DELTAIN:BTCUSD.P with SL 86448.5 and TP 85422.6
+12/1/2025 17:46,Order 2517426383 modification confirmed
+12/1/2025 17:46,Order 2517431407 modification confirmed
+12/1/2025 17:46,Modify position for symbol DELTAIN:BTCUSD.P with SL 86340.5 and TP 85671.0
+12/1/2025 17:41,Order 2517426383 modification confirmed
+12/1/2025 17:41,Order 2517431407 modification confirmed
+12/1/2025 17:41,Modify position for symbol DELTAIN:BTCUSD.P with SL 86437.7 and TP 85487.4
+12/1/2025 17:41,Order 2517426383 modification confirmed
+12/1/2025 17:41,Order 2517431407 successfully placed
+12/1/2025 17:41,Modify position for symbol DELTAIN:BTCUSD.P with SL 86437.7 and TP 85595.4
+12/1/2025 17:39,Order 2517426383 modification confirmed
+12/1/2025 17:39,Modify position for symbol DELTAIN:BTCUSD.P with TP 85584.6
+12/1/2025 17:39,Order 2517426383 successfully placed
+12/1/2025 17:39,Modify position for symbol DELTAIN:BTCUSD.P with TP 85606.2
+12/1/2025 17:38,Order 2517425664 for symbol DELTAIN:BTCUSD.P has been executed at price 85993.5 for 10 units
+12/1/2025 17:38,Order 2517425664 successfully placed
+12/1/2025 17:38,Call to place market order to sell 10 units of symbol DELTAIN:BTCUSD.P 
+12/1/2025 15:27,Order 2517155357 for symbol DELTAIN:BTCUSD.P has been executed at price 86699.5 for 10 units
+12/1/2025 15:27,Order 2517155357 successfully placed
+12/1/2025 15:27,Order 2517130928 successfully cancelled
+12/1/2025 15:27,Call to place market order to sell 10 units of symbol DELTAIN:BTCUSD.P 
+12/1/2025 15:23,Order 2517130928 modification confirmed
+12/1/2025 15:23,Order 2517130927 successfully cancelled
+12/1/2025 15:23,Modify position for symbol DELTAIN:BTCUSD.P with TP 87118.4
+12/1/2025 15:16,Order 2517130928 successfully placed
+12/1/2025 15:16,Order 2517130927 successfully placed
+12/1/2025 15:16,Modify position for symbol DELTAIN:BTCUSD.P with SL 86654.2 and TP 87118.4
+12/1/2025 15:15,Order 2517129027 for symbol DELTAIN:BTCUSD.P has been executed at price 86828.0 for 10 units
+12/1/2025 15:15,Order 2517129027 successfully placed
+12/1/2025 15:15,Call to place market order to buy 10 units of symbol DELTAIN:BTCUSD.P 
